@@ -23,7 +23,7 @@ repository               : "yiransmind/yiransmind.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Yiran.jpg"
   name             : "Yiran Du"
   pronouns         : "he/his" 
   bio              : "PhD Student"
