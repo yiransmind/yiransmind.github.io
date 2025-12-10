@@ -25,9 +25,9 @@ author:
   # Biographic information
   avatar           : "Yiran.jpg"
   name             : "Yiran Du"
-  pronouns         : "he/his" 
+  pronouns         : 
   bio              : "PhD Student"
-  location         : "Cambridge, UK"
+  location         : 
   employer         : "University of Cambridge"
   uri              : # URL
   email            : "yd392@cam.ac.uk" 
