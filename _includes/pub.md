@@ -1,4 +1,4 @@
-*Names in bold denote myself, whereas an asterisk (*) identifies the corresponding author.*
+*Names in bold denote myself, whereas an asterisk * identifies the corresponding author.*
 
 ---
 
