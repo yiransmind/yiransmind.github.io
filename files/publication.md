@@ -1,6 +1,7 @@
 ---
 permalink: /files/publication.md
 title: "Publications (*Denotes corresponding author)"
+collection: publications
 ---
 
 # 2026
