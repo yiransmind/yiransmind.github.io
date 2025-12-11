@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: "Publications"
+permalink: /publications/
+title: "Publications (*Denotes corresponding author)"
 author_profile: true
 ---
 
