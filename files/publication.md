@@ -1,7 +1,8 @@
 ---
-permalink: /files/publication.md
+layout: page
 title: "Publications (*Denotes corresponding author)"
-collection: publications
+permalink: /publications/
+author_profile: true
 ---
 
 # 2026
