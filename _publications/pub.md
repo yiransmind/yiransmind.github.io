@@ -1,7 +1,6 @@
 ---
 title: "Publications (*Denotes corresponding author)"
 permalink: /publications/pub.md
-author_profile: true
 ---
 
 # 2026
