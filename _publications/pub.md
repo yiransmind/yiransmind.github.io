@@ -1,7 +1,5 @@
----
-title: "Publications (*Denotes corresponding author)"
-permalink: /publications/pub.md
----
+
+# Publications (*Denotes corresponding author)
 
 # 2026
 **Du, Y.\***, Tang, M., Jia, K., Wang, C., & Zou, B. (2026). *Are teachers addicted to AI? Analysing factors influencing dependence on generative AI through the I-PACE model*. *Journal of Computer Assisted Learning, 42*(1), e70174. https://doi.org/10.1002/jcal.70174 [SSCI, IF = 4.6]
