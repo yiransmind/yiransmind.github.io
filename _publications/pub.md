@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Publications (*Denotes corresponding author)"
 permalink: /publications/pub.md
 author_profile: true
