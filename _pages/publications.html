@@ -5,4 +5,5 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include pub.md %}
+{% capture pub %}{% include pub.md %}{% endcapture %}
+{{ pub | markdownify }}
