@@ -1,3 +1,9 @@
+---
+permalink: /
+title: "Publications"
+author_profile: true
+---
+
 2026
 Du, Y.*, Tang, M., Jia, K., Wang, C., & Zou, B. (2026). Are Teachers Addicted to AI? Analysing Factors Influencing Dependence on Generative AI Through the I-PACE Model. Journal of Computer Assisted Learning, 42(1), e70174. https://doi.org/10.1002/jcal.70174 [SSCI, IF = 4.6]
 
