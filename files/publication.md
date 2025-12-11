@@ -1,7 +1,6 @@
 ---
-permalink: /publications/
+permalink: /files/publication.md
 title: "Publications (*Denotes corresponding author)"
-author_profile: true
 ---
 
 # 2026
