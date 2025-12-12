@@ -21,7 +21,7 @@
 ## 2024
 - **Du, Y.\***, He, H., & Chu, Z. (2024). Cross-cultural nuances in sarcasm comprehension: A comparative study of Chinese and American perspectives. *Frontiers in Psychology, 15*, 1349002. [DOI](https://doi.org/10.3389/fpsyg.2024.1349002) [SSCI, IF = 2.9, Cited by 12]
 
-- Zou, B., Liviero, S., Li, M., Zhang, W., **Du, Y.**, & Xing, P. (2024). Exploring EFL learners’ perceived promise and limitations of using an artificial intelligence speech evaluation system for speaking practice. *System, 126*, 103497. [DOI](https://doi.org/10.1016/j.system.2024.103497) [SSCI, IF = 5.6, Cited by 44]
+- Zou, B., Liviero, S., Li, M., Zhang, W., **Du, Y.\***, & Xing, P. (2024). Exploring EFL learners’ perceived promise and limitations of using an artificial intelligence speech evaluation system for speaking practice. *System, 126*, 103497. [DOI](https://doi.org/10.1016/j.system.2024.103497) [SSCI, IF = 5.6, Cited by 44]
 
 - Wang, C., Zou, B., **Du, Y.**, & Wang, Z.\* (2024). The impact of different conversational generative AI chatbots on EFL learners: An analysis of willingness to communicate, foreign language speaking anxiety, and self-perceived communicative competence. *System*, 103533. [DOI](https://doi.org/10.1016/j.system.2024.103533) [SSCI, IF = 5.6, Cited by 84]
 
