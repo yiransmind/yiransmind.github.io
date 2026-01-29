@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in Education at the University of Cambridge. My research focuses on **AI-enhanced education, particulary in second language acquisition contexts**. Prior to beginning my doctorate, I completed a Master of Research in Cognitive Neuroscience at University College London and a Master of Education in Human Development and Education at Harvard University.
+I am a first-year PhD student in Education at the University of Cambridge. My research focuses on **AI-enhanced education, second language acquisition, and irony**. Prior to beginning my doctorate, I completed a Master of Research in Cognitive Neuroscience at University College London and a Master of Education in Human Development and Education at Harvard University.
 
 I have published in several leading journals, including *Journal of Computer Assisted Learning*, *International Journal of Human–Computer Interaction*, *Innovation in Language Learning and Teaching*, and *System*, among others, with over 300 citations to date. I also serve as an ad hoc reviewer for a broad range of journals in language, education, psychology, and technology.
 
