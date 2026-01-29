@@ -1,8 +1,7 @@
-
 # Publications (*Denotes corresponding author)
 
 # 2026
-**Du, Y.\***, Tang, M., Jia, K., Wang, C., & Zou, B. (2026). *Are teachers addicted to AI? Analysing factors influencing dependence on generative AI through the I-PACE model*. *Journal of Computer Assisted Learning, 42*(1), e70174. https://doi.org/10.1002/jcal.70174 [SSCI, IF = 4.6]
+**Du, Y.\***, Tang, M., Jia, K., Wang, C., & Zou, B. (2026). *Are teachers addicted to AI? Analysing factors influencing dependence on generative AI through the I-PACE model*. *Journal of Computer Assisted Learning, 42*(1), e70174. [SSCI, IF = 4.6, https://doi.org/10.1002/jcal.70174]
 
 # 2025
 **Du, Y.\*** (2025). *The impact of emojis on verbal irony comprehension in computer-mediated communication: A cross-cultural study*. *International Journal of Human–Computer Interaction, 41*(8), 4979–4986. https://doi.org/10.1080/10447318.2024.2356398 [SCI, SSCI, IF = 4.9]
