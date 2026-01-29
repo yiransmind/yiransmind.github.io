@@ -26,7 +26,7 @@ main:
   - title: "CV"
     url: /files/CV.pdf
 
-   - title: "CV_of_Failure"
+  - title: "CV of Failure"
     url: /files/CV_of_Failure.pdf
   # - title: "CV"
   #   url: /cv-json/
