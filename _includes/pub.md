@@ -16,16 +16,16 @@
 ---
 
 ## 2025
-- **Du, Y.\*** (2025). The impact of emojis on verbal irony comprehension in computer-mediated communication: A cross-cultural study. *International Journal of Human–Computer Interaction, 41*(8), 4979–4986. [SCI, SSCI, IF = 4.9, [DOI](https://doi.org/10.1080/10447318.2024.2356398)]
+- **Du, Y.\*** (2025). The impact of emojis on verbal irony comprehension in computer-mediated communication: A cross-cultural study. *International Journal of Human–Computer Interaction, 41*(8), 4979–4986. [SCI, IF = 4.9, [DOI](https://doi.org/10.1080/10447318.2024.2356398)]
 
-- **Du, Y.\***, Wang, C., Zou, B.\*, & Xia, Y. (2025). Personalising AI tools for second language speaking: The role of gender and autistic traits. *Frontiers in Psychiatry, 15*, 1464575. [SCI, SSCI, IF = 3.2, [DOI](https://doi.org/10.3389/fpsyt.2024.1464575)]
+- **Du, Y.\***, Wang, C., Zou, B.\*, & Xia, Y. (2025). Personalising AI tools for second language speaking: The role of gender and autistic traits. *Frontiers in Psychiatry, 15*, 1464575. [SCI, IF = 3.2, [DOI](https://doi.org/10.3389/fpsyt.2024.1464575)]
 
 - Du, C., Tang, M., Wang, C., Zou, B., Xia, Y., & **Du, Y.\*** (2025). Who is most likely to accept AI chatbots? A sequential explanatory mixed-methods study of personality and ChatGPT acceptance for language learning. *Innovation in Language Learning and Teaching*, 1–22. [SSCI, IF = 4.6, [DOI](https://doi.org/10.1080/17501229.2025.2555515)]
 
 ---
 
 ## 2024
-- **Du, Y.\***, He, H., & Chu, Z. (2024). Cross-cultural nuances in sarcasm comprehension: A comparative study of Chinese and American perspectives. *Frontiers in Psychology, 15*, 1349002. [SSCI, IF = 2.9, Cited by 16, [DOI](https://doi.org/10.3389/fpsyg.2024.1349002)]
+- **Du, Y.\***, He, H., & Chu, Z. (2024). Cross-cultural nuances in sarcasm comprehension: A comparative study of Chinese and American perspectives. *Frontiers in Psychology, 15*, 1349002. [SSCI, IF = 2.9, [DOI](https://doi.org/10.3389/fpsyg.2024.1349002)]
 
 - Zou, B., Liviero, S., Li, M., Zhang, W., **Du, Y.\***, & Xing, P. (2024). Exploring EFL learners’ perceived promise and limitations of using an artificial intelligence speech evaluation system for speaking practice. *System, 126*, 103497. [SSCI, IF = 5.6, [DOI](https://doi.org/10.1016/j.system.2024.103497)]
 
