@@ -39,14 +39,14 @@
 
 ## 2023
 
-- Zou, B., **Du, Y.**, Wang, Z., Chen, J., & Zhang, W.\* (2023). An investigation into artificial intelligence speech evaluation programs with automatic feedback for developing EFL learners’ speaking skills. *SAGE Open, 2023*(7). [[SSCI, IF = 2.0, [DOI](https://doi.org/10.1177/21582440231193818)]
+- Zou, B., **Du, Y.**, Wang, Z., Chen, J., & Zhang, W.\* (2023). An investigation into artificial intelligence speech evaluation programs with automatic feedback for developing EFL learners’ speaking skills. *SAGE Open, 2023*(7). [SSCI, IF = 2.0, [DOI](https://doi.org/10.1177/21582440231193818)]
 
 - Du, Y.* (2023). A corpus-based study to evaluate the generativist explanation of children’s error patterns in questions. *Journal of Language Teaching, 3*(3), 26–38. [[DOI](https://doi.org/10.54475/jlt.2023.007)]
 
 ---
 
 ## 2022
-- Chen, X., **Du, Y.\***, Qu, M., & Gao, S. (2022). A study on the effect of L1 to L2 transfer on the production of idiomatic expressions in L2 among mandarin-speaking intermediate learners of English: 2021 International Conference on Public Art and Human Development (ICPAHD 2021). [[DOI](https://doi.org/10.2991/assehr.k.220110.117)]
+- Chen, X., **Du, Y.\***, Qu, M., & Gao, S. (2022). *A study on the effect of L1 to L2 transfer on the production of idiomatic expressions in L2 among mandarin-speaking intermediate learners of English*: 2021 International Conference on Public Art and Human Development (ICPAHD 2021). [[DOI](https://doi.org/10.2991/assehr.k.220110.117)]
 
 
 
