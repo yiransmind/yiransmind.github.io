@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yiran Du is a first-year PhD student in Education at the University of Cambridge. His research focuses on **Artificial Intelligence in Education (AIED)**, **Computer-Assisted Language Learning (CALL)**, and **psycholinguistics**. Prior to beginning his doctoral studies, he completed a Master of Research in Cognitive Neuroscience at University College London and a Master of Education in Human Development and Education at Harvard University.
+Yiran Du is a first-year PhD student in Education at the University of Cambridge. He holds a Master of Education in Human Development and Education from Harvard University. His research focuses on Artificial Intelligence in Education (AIED), Computer-Assisted Language Learning (CALL), and psycholinguistics.
 
 His work has been published in several leading journals, including *Telematics and Informatics*, *Journal of Computer Assisted Learning*, *International Journal of Human–Computer Interaction*, *Innovation in Language Learning and Teaching*, and *System*, and has received over 400 citations. He also serves as an ad-hoc journal reviewer for a range of journals in language, education, psychology, and technology.
 
