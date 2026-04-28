@@ -7,6 +7,8 @@
 
 - **Du, Y.\***, Tang, M., Jia, K., Wang, C., & Zou, B. (2026). Are teachers addicted to AI? Analysing factors influencing dependence on generative AI through the I-PACE model. *Journal of Computer Assisted Learning, 42*(1), e70174.[SSCI, IF = 4.6, [DOI](https://doi.org/10.1002/jcal.70174)]
 
+-	Tang, M., Jia, K., He, H., Wang, C., Zou, B., & **Du, Y.\*** (2026). Acceptance and engagement in artificial intelligence–supported reading among primary school learners of English as a foreign language. International Journal of Applied Linguistics.[SSCI, IF = 1.7, [DOI](http://doi.org/10.1111/ijal.70204)]
+
 - Wang, C., **Du, Y.**, & Zou, B.\* (2026). Learners’ acceptance and use of multimodal artificial intelligence (AI)-generated content in AI-mediated informal digital learning of English. *International Journal of Applied Linguistics, 36*(1), 927-940. [SSCI, IF = 1.7, [DOI](https://doi.org/10.1111/ijal.12827)]
 
 - Tang, M., Lau, K. L.\*, & **Du, Y.** (2026). Effects and moderators of dialogic reading on children’s reading literacy: A three-level meta-analysis (2000–2025). *International Journal of Educational Research, 137*, 102963. [SSCI, IF = 2.5, [DOI](https://doi.org/10.1016/j.ijer.2026.102963)]
