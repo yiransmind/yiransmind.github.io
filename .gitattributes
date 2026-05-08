@@ -1,0 +1,21 @@
+# Keep GitHub focused on the site content rather than template internals.
+# These rules do not delete or hide files from the repository tree, but they
+# reduce noise in language statistics and some generated/vendor views.
+
+assets/** linguist-vendored
+_sass/** linguist-vendored
+_layouts/** linguist-vendored
+_includes/** linguist-vendored
+_javascript/** linguist-vendored
+_plugins/** linguist-vendored
+markdown_generator/** linguist-vendored
+.devcontainer/** linguist-generated
+.github/** linguist-generated
+
+# Content files that should remain visible as authored site material.
+_pages/** linguist-vendored=false
+_publications/** linguist-vendored=false
+_teaching/** linguist-vendored=false
+_talks/** linguist-vendored=false
+_portfolio/** linguist-vendored=false
+_includes/pub.md linguist-vendored=false
