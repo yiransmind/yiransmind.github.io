@@ -2,6 +2,18 @@
 
 This repository builds <https://yiransmind.github.io> with GitHub Pages and Jekyll.
 
+## Website Structure
+
+The public website is intentionally simple:
+
+| Page | URL | Main file |
+| --- | --- | --- |
+| Homepage | `/` | `_pages/about.md` |
+| Publications | `/publications/` | `_includes/pub.md` |
+| CV | `/cv/` | `_pages/cv.md`, using `files/CV.pdf` |
+
+The top menu is controlled by `_data/navigation.yml`. It should stay short: Publications and CV only. The theme automatically includes the Homepage link.
+
 ## Edit These Files First
 
 Most website updates only need one of these files:
@@ -10,12 +22,11 @@ Most website updates only need one of these files:
 | --- | --- |
 | Homepage bio text | `_pages/about.md` |
 | Publications list | `_includes/pub.md` |
+| CV page wrapper | `_pages/cv.md` |
+| CV PDF | `files/CV.pdf` |
 | Top menu links | `_data/navigation.yml` |
 | Name, email, avatar, social links, site title | `_config.yml` |
-| CV PDF | `files/CV.pdf` |
 | Profile/avatar image | `images/image.jpg` |
-
-The currently visible menu is controlled by `_data/navigation.yml`. Items that start with `#` are hidden from the top menu.
 
 ## Folders You Can Usually Ignore
 
@@ -41,7 +52,7 @@ bundle exec jekyll serve -l -H localhost
 
 Then open <http://localhost:4000>.
 
-If this feels too much, the easiest workflow is to edit the files above directly on GitHub and let GitHub Pages rebuild the website automatically.
+The easiest workflow is still to edit the files above directly on GitHub and let GitHub Pages rebuild the website automatically.
 
 ## Notes
 
