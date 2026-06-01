@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yiran Du is a PhD student in Education at the University of Cambridge. He holds a Master of Education in Human Development and Education from Harvard University. His research focuses on artificial intelligence in education, information behaviour, psycholinguistics, and human-AI interction.
+Yiran Du is a PhD student in Education at the University of Cambridge. He holds a Master of Education in Human Development and Education from Harvard University. His research focuses on artificial intelligence in education, information behaviour, psycholinguistics, and human-AI interaction.
 
 He has published 13 articles in SSCI/SCI journals, including Telematics and Informatics, Journal of Computer Assisted Learning, International Journal of Human–Computer Interaction, Innovation in Language Learning and Teaching, and System. His work has received over 700 citations. He also serves as an ad hoc reviewer for numerous journals in language, education, psychology, and technology.
 
