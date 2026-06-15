@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I am Yiran!"
+title: "Yiran Du, PhD Student, University of Cambridge!"
 author_profile: true
 redirect_from: 
   - /about/
