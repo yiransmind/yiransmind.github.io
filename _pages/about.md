@@ -86,6 +86,7 @@ redirect_from:
         <button type="button" class="is-active" data-filter="all" role="tab" aria-selected="true">All</button>
         <button type="button" data-filter="ai-education" role="tab" aria-selected="false">AI in Education</button>
         <button type="button" data-filter="human-ai" role="tab" aria-selected="false">Human–AI Interaction</button>
+        <button type="button" data-filter="information-systems" role="tab" aria-selected="false">Information Systems</button>
         <button type="button" data-filter="social-cognition" role="tab" aria-selected="false">Social Cognition</button>
       </div>
 
@@ -114,6 +115,7 @@ redirect_from:
           <span class="publication-topic">Human–AI Interaction</span>
           <i class="fas fa-chevron-right" aria-hidden="true"></i>
         </a>
+        <p class="publication-empty" hidden>No recent publications match this topic yet. View the full publication archive for related work.</p>
       </div>
 
       <p class="console-statement"><i class="fas fa-quote-left" aria-hidden="true"></i> Building evidence for responsible, human-centered AI that supports learning and society.</p>
