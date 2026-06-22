@@ -1,8 +1,9 @@
 ---
-layout: archive
+layout: research-page
 title: "Publications"
 permalink: /publications/
-author_profile: true
+kicker: "Research output"
+subtitle: "Peer-reviewed work across artificial intelligence, education, language learning, and human–computer interaction."
 ---
 
 {% include pub.md %}
