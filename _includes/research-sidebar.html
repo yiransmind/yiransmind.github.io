@@ -1,0 +1,40 @@
+<button class="console-mobile-toggle" type="button" aria-expanded="false" aria-controls="console-sidebar">
+  <i class="fas fa-bars" aria-hidden="true"></i>
+  <span>Menu</span>
+</button>
+
+<aside class="console-sidebar" id="console-sidebar" aria-label="Profile and navigation">
+  <div class="console-identity">
+    <a href="/" aria-label="Go to homepage"><img src="/images/image.jpg" alt="Portrait of Yiran Du" class="console-avatar"></a>
+    <h1>Yiran Du</h1>
+    <p class="console-role">PhD Student in Education</p>
+    <p>University of Cambridge</p>
+    <p>Harvard Master of Education</p>
+  </div>
+
+  <nav class="console-nav" aria-label="Primary navigation">
+    <a{% if page.url == '/' %} class="is-active" aria-current="page"{% endif %} href="/"><i class="fas fa-house" aria-hidden="true"></i>Homepage</a>
+    <a{% if page.url == '/publications/' %} class="is-active" aria-current="page"{% endif %} href="/publications/"><i class="fas fa-file-lines" aria-hidden="true"></i>Publications</a>
+    <a{% if page.url == '/academic-service/' %} class="is-active" aria-current="page"{% endif %} href="/academic-service/"><i class="fas fa-user-group" aria-hidden="true"></i>Academic Service</a>
+  </nav>
+
+  <button id="theme-toggle" class="console-theme" type="button" aria-label="Toggle light and dark theme">
+    <i id="theme-icon" class="fas fa-moon" aria-hidden="true"></i>
+    <span>Switch theme</span>
+  </button>
+
+  <div class="console-focus" aria-label="Research focus">
+    <p class="console-eyebrow">Research Focus</p>
+    <ul>
+      <li>Artificial Intelligence in Education</li>
+      <li>Human–AI Interaction</li>
+      <li>Information Systems</li>
+      <li>Social Cognition</li>
+    </ul>
+  </div>
+
+  <div class="console-connect">
+    <span>Let's connect</span>
+    <a href="mailto:yd392@cam.ac.uk" aria-label="Email Yiran Du"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+  </div>
+</aside>
