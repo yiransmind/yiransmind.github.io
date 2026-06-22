@@ -1,0 +1,31 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js" data-theme="dark">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+  <body class="research-home-body">
+    {% include browser-upgrade.html %}
+    <div class="research-console">
+      {% include research-sidebar.html %}
+      <main class="console-main research-page-main">
+        <header class="research-page-header">
+          <p class="console-kicker">{{ page.kicker | default: 'Academic Profile' }}</p>
+          <h1>{{ page.title }}</h1>
+          {% if page.subtitle %}<p>{{ page.subtitle }}</p>{% endif %}
+        </header>
+        <article class="research-page-content">
+          {{ content }}
+        </article>
+      </main>
+    </div>
+    {% include scripts.html %}
+    <script src="{{ base_path }}/assets/js/research-console.js"></script>
+  </body>
+</html>
