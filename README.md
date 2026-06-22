@@ -2,6 +2,8 @@
 
 This repository builds <https://yiransmind.github.io> with GitHub Pages and Jekyll.
 
+The homepage uses a responsive Research Console layout with dark/light themes and interactive publication filters.
+
 ## Website Structure
 
 The public website is intentionally simple:
