@@ -1,3 +1,4 @@
+/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 18: /bin/ps: Operation not permitted
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -9,7 +10,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Homepage"
+title                    : "Yiran Du"
 title_separator          : "-"
 name                     : &name "Yiran Du"
 description              : &description "Yiran Du's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
