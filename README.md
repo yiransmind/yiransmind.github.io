@@ -10,9 +10,9 @@ The public website is intentionally simple:
 | --- | --- | --- |
 | Homepage | `/` | `_pages/about.md` |
 | Publications | `/publications/` | `_includes/pub.md` |
-| CV | `/cv/` | `_pages/cv.md`, using `files/CV.pdf` |
+| Academic Service | `/academic-service/` | `_pages/academic-service.md` |
 
-The top menu is controlled by `_data/navigation.yml`. It should stay short: Publications and CV only. The theme automatically includes the Homepage link.
+The top menu is controlled by `_data/navigation.yml`. It should stay short: Publications and Academic Service only. The theme automatically includes the Homepage link.
 
 ## Edit These Files First
 
@@ -22,8 +22,8 @@ Most website updates only need one of these files:
 | --- | --- |
 | Homepage bio text | `_pages/about.md` |
 | Publications list | `_includes/pub.md` |
-| CV page wrapper | `_pages/cv.md` |
-| CV PDF | `files/CV.pdf` |
+| Academic service page | `_pages/academic-service.md` |
+| Archived CV PDF | `files/CV.pdf` |
 | Top menu links | `_data/navigation.yml` |
 | Name, email, avatar, social links, site title | `_config.yml` |
 | Profile/avatar image | `images/image.jpg` |
