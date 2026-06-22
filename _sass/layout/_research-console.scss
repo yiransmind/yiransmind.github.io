@@ -557,6 +557,88 @@ html:not([data-theme="dark"]) .research-console {
   }
 }
 
+.publication-note { margin-bottom: 22px !important; }
+
+.archive-theme-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px;
+  margin-bottom: 48px;
+
+  button {
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+    padding: 10px 13px;
+    color: var(--console-muted);
+    background: var(--console-panel);
+    border: 1px solid transparent;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: color 160ms ease, background 160ms ease, border-color 160ms ease;
+
+    span {
+      display: inline-grid;
+      min-width: 20px;
+      height: 20px;
+      place-items: center;
+      color: var(--console-muted);
+      background: var(--console-bg-deep);
+      border-radius: 10px;
+      font-size: 0.64rem;
+    }
+
+    &:hover,
+    &:focus-visible,
+    &.is-active {
+      color: var(--console-accent);
+      background: var(--console-accent-soft);
+      border-color: rgba(45, 214, 223, 0.34);
+    }
+  }
+}
+
+.publication-theme-group {
+  padding: 0 0 62px;
+
+  &[hidden] { display: none; }
+
+  > h3 {
+    display: inline-flex;
+    min-width: 70px;
+    margin: 30px 0 12px;
+    padding: 7px 10px;
+    color: var(--console-accent);
+    background: var(--console-accent-soft);
+    border-left: 2px solid var(--console-accent);
+    font-family: $sans-serif;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+  }
+}
+
+.publication-theme-heading {
+  padding: 0 0 24px;
+  border-bottom: 1px solid var(--console-line);
+
+  h2 {
+    margin: 12px 0 8px;
+    color: var(--console-text);
+    font-size: clamp(1.55rem, 2.7vw, 2.35rem);
+    font-weight: 400;
+    letter-spacing: -0.035em;
+    text-transform: none;
+  }
+
+  > p:last-child {
+    max-width: 720px;
+    margin: 0;
+    color: var(--console-muted);
+    font-size: 0.86rem;
+  }
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .console-intro,
   .research-map,
@@ -627,5 +709,7 @@ html:not([data-theme="dark"]) .research-console {
   .publication-filters { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 6px; }
   .publication-filters button { flex: 0 0 auto; }
   .publication-copy strong { white-space: normal; }
+  .archive-theme-filters { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 8px; }
+  .archive-theme-filters button { flex: 0 0 auto; }
+  .publication-theme-heading h2 { font-size: 1.65rem; }
 }
-
