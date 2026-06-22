@@ -18,6 +18,7 @@
 
   var filterButtons = document.querySelectorAll('.publication-filters button');
   var publicationRows = document.querySelectorAll('.publication-row');
+  var emptyState = document.querySelector('.publication-empty');
 
   filterButtons.forEach(function (button) {
     button.addEventListener('click', function () {
@@ -34,6 +35,11 @@
         var visible = filter === 'all' || topics.indexOf(filter) !== -1;
         row.hidden = !visible;
       });
+
+      if (emptyState) {
+        var visibleRows = document.querySelectorAll('.publication-row:not([hidden])').length;
+        emptyState.hidden = visibleRows !== 0;
+      }
     });
   });
 }());
