@@ -7,6 +7,77 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  .console-profile--compact { margin-top: 46px; }
+  .profile-card {
+    margin-top: 22px;
+    padding: 24px;
+    background: radial-gradient(circle at 0% 0%, var(--console-accent-soft), transparent 32%), var(--console-panel);
+    border: 1px solid var(--console-line);
+    border-radius: 14px;
+  }
+  .console-profile--compact .profile-metrics {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0;
+    margin: 0;
+    border-bottom: 1px solid var(--console-line);
+  }
+  .console-profile--compact .profile-metrics span {
+    display: block;
+    padding: 0 20px 22px;
+    color: var(--console-muted);
+    font-size: 0.78rem;
+    line-height: 1.45;
+  }
+  .console-profile--compact .profile-metrics span:first-child { padding-left: 0; }
+  .console-profile--compact .profile-metrics span:last-child { padding-right: 0; }
+  .console-profile--compact .profile-metrics span:not(:last-child) { border-right: 1px solid var(--console-line); }
+  .console-profile--compact .profile-metrics strong {
+    display: block;
+    margin-bottom: 5px;
+    color: var(--console-accent);
+    font-size: clamp(1.5rem, 3vw, 2.2rem);
+    font-weight: 300;
+    letter-spacing: -0.05em;
+    line-height: 1;
+  }
+  .profile-facts {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 26px;
+    padding-top: 20px;
+  }
+  .profile-facts p {
+    margin: 0;
+    color: var(--console-muted);
+    font-size: 0.83rem;
+    line-height: 1.65;
+  }
+  .profile-facts strong {
+    display: block;
+    margin-bottom: 4px;
+    color: var(--console-text);
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.13em;
+    text-transform: uppercase;
+  }
+  @media screen and (max-width: 800px) {
+    .console-profile--compact .profile-metrics,
+    .profile-facts { grid-template-columns: 1fr; }
+    .console-profile--compact .profile-metrics span {
+      padding: 0 0 16px;
+      border-right: 0 !important;
+    }
+    .console-profile--compact .profile-metrics span:not(:last-child) {
+      margin-bottom: 16px;
+      border-bottom: 1px solid var(--console-line);
+    }
+    .profile-facts { gap: 16px; }
+  }
+</style>
+
 <div class="research-console">
   <button class="console-mobile-toggle" type="button" aria-expanded="false" aria-controls="console-sidebar">
     <i class="fas fa-bars" aria-hidden="true"></i>
@@ -76,66 +147,23 @@ redirect_from:
       </div>
     </section>
 
-    <section class="console-profile" aria-labelledby="profile-title">
+    <section class="console-profile console-profile--compact" aria-labelledby="profile-title">
       <div class="console-section-heading">
-        <p class="console-eyebrow" id="profile-title">Profile Snapshot <i class="fas fa-circle" aria-hidden="true"></i></p>
+        <p class="console-eyebrow" id="profile-title">Profile <i class="fas fa-circle" aria-hidden="true"></i></p>
         <a href="/academic-service/">Academic service <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
       </div>
 
-      <div class="profile-metrics" aria-label="Academic profile metrics">
-        <article>
-          <span>760+</span>
-          <p>Google Scholar citations</p>
-        </article>
-        <article>
-          <span>13</span>
-          <p>SSCI / SCI articles</p>
-        </article>
-        <article>
-          <span>8</span>
-          <p>First or corresponding-author SSCI / SCI articles</p>
-        </article>
-      </div>
+      <div class="profile-card">
+        <div class="profile-metrics" aria-label="Academic profile metrics">
+          <span><strong>760+</strong> citations</span>
+          <span><strong>13</strong> SSCI / SCI articles</span>
+          <span><strong>8</strong> first or corresponding-author SSCI / SCI articles</span>
+        </div>
 
-      <div class="profile-grid">
-        <article class="profile-panel">
-          <p class="console-eyebrow">Education</p>
-          <ol class="profile-timeline">
-            <li><span>2025–2028</span><strong>PhD in Education</strong><em>University of Cambridge</em></li>
-            <li><span>2024–2025</span><strong>MRes in Cognitive Neuroscience</strong><em>University College London</em></li>
-            <li><span>2023–2024</span><strong>MEd in Human Development & Education</strong><em>Harvard University</em></li>
-            <li><span>2021–2023</span><strong>BA in English & Business Studies</strong><em>University of Liverpool</em></li>
-            <li><span>2019–2021</span><strong>BA in English & International Business</strong><em>Xi’an Jiaotong-Liverpool University</em></li>
-          </ol>
-        </article>
-
-        <article class="profile-panel">
-          <p class="console-eyebrow">Selected Recognition</p>
-          <ul class="profile-list">
-            <li><strong>Wiley China Excellent Author</strong><span>2025</span></li>
-            <li><strong>Research and Conferences Award</strong><span>Lucy Cavendish College, University of Cambridge · 2026</span></li>
-            <li><strong>Teaching Development Fund</strong><span>Xi’an Jiaotong-Liverpool University · 2023</span></li>
-          </ul>
-        </article>
-      </div>
-
-      <div class="profile-grid profile-grid--compact">
-        <article class="profile-panel">
-          <p class="console-eyebrow">Conference Presentations</p>
-          <ul class="profile-list">
-            <li><strong>Enabling and inhibitory pathways of university students’ willingness to disclose AI use</strong><span>Future Education and Learning Forum, Tsinghua University · 2026</span></li>
-            <li><strong>Psychological mechanisms of continuance intention among kindergarten, primary and secondary school teachers</strong><span>BERA Annual Conference, University of Manchester · 2026</span></li>
-          </ul>
-        </article>
-
-        <article class="profile-panel">
-          <p class="console-eyebrow">Funding & Fellowships</p>
-          <ul class="profile-list">
-            <li><strong>Research Assistant Stipend</strong><span>University College London · 2024</span></li>
-            <li><strong>Undergraduate Research Scheme Stipend</strong><span>University of Liverpool · 2022</span></li>
-            <li><strong>Summer Undergraduate Research Fellowship</strong><span>Xi’an Jiaotong-Liverpool University · 2022</span></li>
-          </ul>
-        </article>
+        <div class="profile-facts">
+          <p><strong>Education</strong> PhD in Education, University of Cambridge; MEd, Harvard University; MRes, University College London.</p>
+          <p><strong>Recognition</strong> Wiley China Excellent Author, 2025; Research and Conferences Award, Lucy Cavendish College, 2026.</p>
+        </div>
       </div>
     </section>
 
