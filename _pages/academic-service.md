@@ -20,5 +20,5 @@ subtitle: "Editorial and peer-review service across education, psychology, lingu
 
 ## Conference Reviewer (ad hoc)
 
-- American Educational Research Association (AERA) Annual Meeting, 2027
+- American Educational Research Association (AERA) Annual Meeting
 - British Educational Research Association (BERA) Annual Conference, 2026
