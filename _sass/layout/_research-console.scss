@@ -400,7 +400,10 @@ html:not([data-theme="dark"]) .research-map-center {
   box-shadow: 0 0 42px rgba(0, 127, 139, 0.12), 0 12px 34px rgba(16, 44, 61, 0.08);
 }
 
-.console-publications { margin-top: 54px; }
+.console-profile,
+.console-publications {
+  margin-top: 54px;
+}
 
 .console-section-heading {
   display: flex;
@@ -416,6 +419,150 @@ html:not([data-theme="dark"]) .research-map-center {
     text-decoration: none;
     &:hover,
     &:focus-visible { color: var(--console-accent); }
+  }
+}
+
+.profile-metrics {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin: 24px 0 16px;
+
+  article {
+    min-height: 118px;
+    padding: 22px 20px;
+    background:
+      radial-gradient(circle at 18% 0%, var(--console-accent-soft), transparent 42%),
+      var(--console-panel);
+    border: 1px solid var(--console-line);
+    border-radius: 12px;
+  }
+
+  span {
+    display: block;
+    color: var(--console-accent);
+    font-size: clamp(2rem, 4vw, 3.2rem);
+    font-weight: 300;
+    letter-spacing: -0.06em;
+    line-height: 1;
+  }
+
+  p {
+    max-width: 210px;
+    margin: 12px 0 0;
+    color: var(--console-muted);
+    font-size: 0.78rem;
+    line-height: 1.45;
+  }
+}
+
+.profile-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.12fr) minmax(0, 0.88fr);
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.profile-grid--compact {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.profile-panel {
+  padding: 24px;
+  background: var(--console-panel);
+  border: 1px solid var(--console-line);
+  border-radius: 12px;
+}
+
+.profile-timeline,
+.profile-list {
+  margin: 18px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.profile-timeline {
+  display: grid;
+  gap: 16px;
+
+  li {
+    position: relative;
+    display: grid;
+    grid-template-columns: 90px minmax(0, 1fr);
+    gap: 18px;
+    padding-left: 18px;
+
+    &::before {
+      position: absolute;
+      top: 7px;
+      left: 0;
+      width: 6px;
+      height: 6px;
+      content: '';
+      background: var(--console-accent);
+      border-radius: 50%;
+      box-shadow: 0 0 16px var(--console-accent);
+    }
+  }
+
+  span {
+    color: var(--console-accent);
+    font-size: 0.68rem;
+    letter-spacing: 0.08em;
+  }
+
+  strong,
+  em {
+    display: block;
+    font-style: normal;
+  }
+
+  strong {
+    color: var(--console-text);
+    font-size: 0.88rem;
+    font-weight: 500;
+    line-height: 1.35;
+  }
+
+  em {
+    margin-top: 4px;
+    color: var(--console-muted);
+    font-size: 0.72rem;
+    line-height: 1.4;
+  }
+}
+
+.profile-list {
+  display: grid;
+  gap: 14px;
+
+  li {
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--console-line);
+
+    &:last-child {
+      padding-bottom: 0;
+      border-bottom: 0;
+    }
+  }
+
+  strong,
+  span {
+    display: block;
+  }
+
+  strong {
+    color: var(--console-text);
+    font-size: 0.86rem;
+    font-weight: 500;
+    line-height: 1.42;
+  }
+
+  span {
+    margin-top: 5px;
+    color: var(--console-muted);
+    font-size: 0.72rem;
+    line-height: 1.45;
   }
 }
 
@@ -744,6 +891,8 @@ html:not([data-theme="dark"]) .research-map-center {
   .console-hero { grid-template-columns: 1fr; }
   .console-intro { max-width: 760px; }
   .research-map { min-height: 460px; }
+  .profile-grid,
+  .profile-grid--compact { grid-template-columns: 1fr; }
 }
 
 @media screen and (max-width: 800px) {
@@ -784,6 +933,7 @@ html:not([data-theme="dark"]) .research-map-center {
   .publication-row { grid-template-columns: 20px minmax(0, 1fr) 12px; }
   .publication-topic { display: none; }
   .console-actions { align-items: flex-start; flex-direction: column; gap: 18px; }
+  .profile-metrics { grid-template-columns: 1fr; }
 }
 
 @media screen and (max-width: 520px) {
@@ -791,6 +941,8 @@ html:not([data-theme="dark"]) .research-map-center {
   .research-map-label { width: 110px; }
   .research-map-label span { display: none; }
   .research-map-center { top: 62%; font-size: 0.7rem; }
+  .profile-panel { padding: 20px; }
+  .profile-timeline li { grid-template-columns: 1fr; gap: 6px; }
   .publication-filters { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 6px; }
   .publication-filters button { flex: 0 0 auto; }
   .publication-copy strong { white-space: normal; }
