@@ -19,7 +19,7 @@ redirect_from:
       <h1>Yiran Du</h1>
       <p class="console-role">PhD Student in Education</p>
       <p>University of Cambridge</p>
-      <p>Harvard Master of Education</p>
+      <p>Harvard MEd · UCL MRes</p>
     </div>
 
     <nav class="console-nav" aria-label="Primary navigation">
@@ -54,7 +54,7 @@ redirect_from:
       <div class="console-intro">
         <p class="console-kicker">Welcome to my academic space</p>
         <h2 id="hero-title">Researching the future of learning with AI</h2>
-        <p>Yiran Du is a PhD student in Education at the University of Cambridge. He holds a Master of Education in Human Development and Education from Harvard University.</p>
+        <p>Yiran Du is a PhD student in Education at the University of Cambridge. He holds a Master of Education in Human Development and Education from Harvard University and a Master of Research in Cognitive Neuroscience from University College London.</p>
         <p>His research focuses on artificial intelligence in education, human-AI interaction, information systems, and social cognition.</p>
         <div class="console-actions">
           <a class="console-button" href="#research-map">Explore research <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
@@ -73,6 +73,69 @@ redirect_from:
         <div class="research-map-label research-map-label--three"><strong>Information Systems</strong><span>Platforms and governance</span></div>
         <div class="research-map-label research-map-label--four"><strong>Social Cognition</strong><span>Behavior and social influence</span></div>
         <div class="research-map-center">Human–AI<br>Collaboration</div>
+      </div>
+    </section>
+
+    <section class="console-profile" aria-labelledby="profile-title">
+      <div class="console-section-heading">
+        <p class="console-eyebrow" id="profile-title">Profile Snapshot <i class="fas fa-circle" aria-hidden="true"></i></p>
+        <a href="/academic-service/">Academic service <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+      </div>
+
+      <div class="profile-metrics" aria-label="Academic profile metrics">
+        <article>
+          <span>760+</span>
+          <p>Google Scholar citations</p>
+        </article>
+        <article>
+          <span>13</span>
+          <p>SSCI / SCI articles</p>
+        </article>
+        <article>
+          <span>8</span>
+          <p>First or corresponding-author SSCI / SCI articles</p>
+        </article>
+      </div>
+
+      <div class="profile-grid">
+        <article class="profile-panel">
+          <p class="console-eyebrow">Education</p>
+          <ol class="profile-timeline">
+            <li><span>2025–2028</span><strong>PhD in Education</strong><em>University of Cambridge</em></li>
+            <li><span>2024–2025</span><strong>MRes in Cognitive Neuroscience</strong><em>University College London</em></li>
+            <li><span>2023–2024</span><strong>MEd in Human Development & Education</strong><em>Harvard University</em></li>
+            <li><span>2021–2023</span><strong>BA in English & Business Studies</strong><em>University of Liverpool</em></li>
+            <li><span>2019–2021</span><strong>BA in English & International Business</strong><em>Xi’an Jiaotong-Liverpool University</em></li>
+          </ol>
+        </article>
+
+        <article class="profile-panel">
+          <p class="console-eyebrow">Selected Recognition</p>
+          <ul class="profile-list">
+            <li><strong>Wiley China Excellent Author</strong><span>2025</span></li>
+            <li><strong>Research and Conferences Award</strong><span>Lucy Cavendish College, University of Cambridge · 2026</span></li>
+            <li><strong>Teaching Development Fund</strong><span>Xi’an Jiaotong-Liverpool University · 2023</span></li>
+          </ul>
+        </article>
+      </div>
+
+      <div class="profile-grid profile-grid--compact">
+        <article class="profile-panel">
+          <p class="console-eyebrow">Conference Presentations</p>
+          <ul class="profile-list">
+            <li><strong>Enabling and inhibitory pathways of university students’ willingness to disclose AI use</strong><span>Future Education and Learning Forum, Tsinghua University · 2026</span></li>
+            <li><strong>Psychological mechanisms of continuance intention among kindergarten, primary and secondary school teachers</strong><span>BERA Annual Conference, University of Manchester · 2026</span></li>
+          </ul>
+        </article>
+
+        <article class="profile-panel">
+          <p class="console-eyebrow">Funding & Fellowships</p>
+          <ul class="profile-list">
+            <li><strong>Research Assistant Stipend</strong><span>University College London · 2024</span></li>
+            <li><strong>Undergraduate Research Scheme Stipend</strong><span>University of Liverpool · 2022</span></li>
+            <li><strong>Summer Undergraduate Research Fellowship</strong><span>Xi’an Jiaotong-Liverpool University · 2022</span></li>
+          </ul>
+        </article>
       </div>
     </section>
 
