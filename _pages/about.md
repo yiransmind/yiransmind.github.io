@@ -117,6 +117,7 @@ redirect_from:
     <div class="console-connect">
       <span>Let’s connect</span>
       <a href="mailto:yd392@cam.ac.uk" aria-label="Email Yiran Du"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+      <a href="/files/CV.pdf" aria-label="Download Yiran Du’s CV"><i class="fas fa-file-arrow-down" aria-hidden="true"></i></a>
     </div>
   </aside>
 
@@ -155,9 +156,9 @@ redirect_from:
 
       <div class="profile-card">
         <div class="profile-metrics" aria-label="Academic profile metrics">
-          <span><strong>760+</strong> citations</span>
-          <span><strong>13</strong> SSCI / SCI articles</span>
-          <span><strong>8</strong> first or corresponding-author SSCI / SCI articles</span>
+          <span><strong>830</strong> Google Scholar citations</span>
+          <span><strong>14</strong> SSCI / SCI articles</span>
+          <span><strong>9</strong> first or corresponding-author SSCI / SCI articles</span>
         </div>
 
         <div class="profile-facts">

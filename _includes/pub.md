@@ -1,9 +1,9 @@
 <p class="publication-note"><em>Names in bold denote myself, whereas an asterisk * identifies the corresponding author.</em></p>
 
 <div class="archive-theme-filters" role="group" aria-label="Filter publications by research theme">
-  <button class="is-active" type="button" data-archive-filter="all" aria-pressed="true">All themes <span>17</span></button>
+  <button class="is-active" type="button" data-archive-filter="all" aria-pressed="true">All themes <span>18</span></button>
   <button type="button" data-archive-filter="ai-education" aria-pressed="false">AI in Education <span>5</span></button>
-  <button type="button" data-archive-filter="human-ai" aria-pressed="false">Human–AI Interaction <span>4</span></button>
+  <button type="button" data-archive-filter="human-ai" aria-pressed="false">Human–AI Interaction <span>5</span></button>
   <button type="button" data-archive-filter="social-cognition" aria-pressed="false">Social Cognition <span>3</span></button>
   <button type="button" data-archive-filter="education-research" aria-pressed="false">Education & Measurement <span>5</span></button>
 </div>
@@ -43,6 +43,8 @@
   </header>
 
   <h3>2026</h3>
+
+  - Cui, K., Li, J., He, H., Wang, C., Zou, B., & **Du, Y.\*** (under review). Exploring psychological pathways to pedagogical AI overreliance among Chinese teachers through the cognitive–affective–conative framework. *Journal of Research on Technology in Education*, 1–20. [SSCI, IF = 3.5]
 
   - **Du, Y.\***, Tang, M., Jia, K., Wang, C., & Zou, B. (2026). Are teachers addicted to AI? Analysing factors influencing dependence on generative AI through the I-PACE model. *Journal of Computer Assisted Learning, 42*(1), e70174. [SSCI, IF = 5.7, [DOI](https://doi.org/10.1002/jcal.70174)]
 
