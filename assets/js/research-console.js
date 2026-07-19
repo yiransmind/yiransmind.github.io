@@ -2,6 +2,12 @@
   var menuButton = document.querySelector('.console-mobile-toggle');
   var sidebar = document.querySelector('.console-sidebar');
 
+  function closeMenu() {
+    if (!menuButton || !sidebar) return;
+    sidebar.classList.remove('is-open');
+    menuButton.setAttribute('aria-expanded', 'false');
+  }
+
   if (menuButton && sidebar) {
     menuButton.addEventListener('click', function () {
       var isOpen = sidebar.classList.toggle('is-open');
@@ -9,10 +15,14 @@
     });
 
     sidebar.querySelectorAll('a').forEach(function (link) {
-      link.addEventListener('click', function () {
-        sidebar.classList.remove('is-open');
-        menuButton.setAttribute('aria-expanded', 'false');
-      });
+      link.addEventListener('click', closeMenu);
+    });
+
+    document.addEventListener('keydown', function (event) {
+      if (event.key === 'Escape' && sidebar.classList.contains('is-open')) {
+        closeMenu();
+        menuButton.focus();
+      }
     });
   }
 
@@ -27,7 +37,7 @@
       filterButtons.forEach(function (item) {
         var selected = item === button;
         item.classList.toggle('is-active', selected);
-        item.setAttribute('aria-selected', String(selected));
+        item.setAttribute('aria-pressed', String(selected));
       });
 
       publicationRows.forEach(function (row) {

@@ -2,7 +2,8 @@
 permalink: /
 layout: research-home
 title: "Yiran Du"
-redirect_from: 
+description: "Yiran Du is a PhD researcher at the University of Cambridge studying human–AI interaction, AI in education, digital communication, and social cognition."
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -88,15 +89,15 @@ redirect_from:
     <div class="console-identity">
       <img src="/images/image.jpg" alt="Portrait of Yiran Du" class="console-avatar">
       <h1>Yiran Du</h1>
-      <p class="console-role">PhD Student in Education</p>
+      <p class="console-role">PhD Researcher in Education</p>
       <p>University of Cambridge</p>
-      <p>Harvard MEd · UCL MRes</p>
     </div>
 
     <nav class="console-nav" aria-label="Primary navigation">
-      <a class="is-active" href="/" aria-current="page"><i class="fas fa-house" aria-hidden="true"></i>Homepage</a>
+      <a class="is-active" href="/" aria-current="page"><i class="fas fa-house" aria-hidden="true"></i>Research</a>
       <a href="/publications/"><i class="fas fa-file-lines" aria-hidden="true"></i>Publications</a>
       <a href="/academic-service/"><i class="fas fa-user-group" aria-hidden="true"></i>Academic Service</a>
+      <a href="/files/CV.pdf"><i class="fas fa-file-arrow-down" aria-hidden="true"></i>Curriculum Vitae</a>
     </nav>
 
     <button id="theme-toggle" class="console-theme" type="button" aria-label="Toggle light and dark theme">
@@ -104,47 +105,48 @@ redirect_from:
       <span>Switch theme</span>
     </button>
 
-    <div class="console-focus" aria-label="Research focus">
-      <p class="console-eyebrow">Research Focus</p>
+    <div class="console-focus" aria-label="Research themes">
+      <p class="console-eyebrow">Research Themes</p>
       <ul>
-        <li>Artificial Intelligence in Education</li>
-        <li>Human–AI Interaction</li>
-        <li>Information Systems</li>
-        <li>Social Cognition</li>
+        <li>AI in Education & Language Learning</li>
+        <li>Human–AI Interaction & Adoption</li>
+        <li>Social Cognition & Digital Communication</li>
+        <li>Educational Research & Measurement</li>
       </ul>
     </div>
 
     <div class="console-connect">
-      <span>Let’s connect</span>
+      <span>Contact</span>
       <a href="mailto:yd392@cam.ac.uk" aria-label="Email Yiran Du"><i class="fas fa-envelope" aria-hidden="true"></i></a>
-      <a href="/files/CV.pdf" aria-label="Download Yiran Du’s CV"><i class="fas fa-file-arrow-down" aria-hidden="true"></i></a>
+      <a href="https://scholar.google.com/citations?user=k0KssJUAAAAJ&hl=en" aria-label="View Yiran Du on Google Scholar"><i class="fas fa-graduation-cap" aria-hidden="true"></i></a>
+      <a href="https://orcid.org/0000-0002-6576-0073" aria-label="View Yiran Du's ORCID profile"><i class="fab fa-orcid" aria-hidden="true"></i></a>
     </div>
   </aside>
 
   <main class="console-main">
     <section class="console-hero" aria-labelledby="hero-title">
       <div class="console-intro">
-        <p class="console-kicker">Welcome to my academic space</p>
-        <h2 id="hero-title">Researching the future of learning with AI</h2>
-        <p>Yiran Du is a PhD student in Education at the University of Cambridge. He holds a Master of Education in Human Development and Education from Harvard University and a Master of Research in Cognitive Neuroscience from University College London.</p>
-        <p>His research focuses on artificial intelligence in education, human-AI interaction, information systems, and social cognition.</p>
+        <p class="console-kicker">Human–AI interaction · Education · Social cognition</p>
+        <h2 id="hero-title">Understanding how people adopt, interpret, and depend on AI</h2>
+        <p>I am a PhD researcher in Education at the University of Cambridge. My work examines human–AI interaction in learning and digital communication, combining perspectives from education, information systems, and social cognition.</p>
+        <p>I am particularly interested in when AI supports human agency, when reliance becomes dependence, and how social and psychological factors shape technology use.</p>
         <div class="console-actions">
-          <a class="console-button" href="#research-map">Explore research <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
-          <a class="console-text-link" href="/publications/">View publications <i class="fas fa-chevron-right" aria-hidden="true"></i></a>
+          <a class="console-button" href="/publications/">Selected publications <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+          <a class="console-text-link" href="/files/CV.pdf">Download CV <i class="fas fa-chevron-right" aria-hidden="true"></i></a>
         </div>
       </div>
 
       <div class="research-map" id="research-map">
         <div class="research-map-heading">
-          <p class="console-eyebrow"><i class="fas fa-circle" aria-hidden="true"></i> Research Map</p>
-          <p>How my research areas connect and inform each other.</p>
+          <p class="console-eyebrow"><i class="fas fa-circle" aria-hidden="true"></i> Current Questions</p>
+          <p>Four connected questions guide my research programme.</p>
         </div>
-        <img src="/images/research-network.jpg" alt="Abstract network connecting four research areas to human-AI collaboration">
-        <div class="research-map-label research-map-label--one"><strong>AI in Education</strong><span>Learning environments and analytics</span></div>
-        <div class="research-map-label research-map-label--two"><strong>Human–AI Interaction</strong><span>Trust and collaborative AI</span></div>
-        <div class="research-map-label research-map-label--three"><strong>Information Systems</strong><span>Platforms and governance</span></div>
-        <div class="research-map-label research-map-label--four"><strong>Social Cognition</strong><span>Behavior and social influence</span></div>
-        <div class="research-map-center">Human–AI<br>Collaboration</div>
+        <img src="/images/research-network.jpg" alt="Abstract network connecting four research questions to responsible human–AI collaboration">
+        <div class="research-map-label research-map-label--one"><strong>AI-supported learning</strong><span>How can AI strengthen learning without weakening agency?</span></div>
+        <div class="research-map-label research-map-label--two"><strong>Adoption & dependence</strong><span>Why do people accept, resist, or over-rely on AI?</span></div>
+        <div class="research-map-label research-map-label--three"><strong>Digital communication</strong><span>How are intention, irony, and affect interpreted online?</span></div>
+        <div class="research-map-label research-map-label--four"><strong>Measurement</strong><span>How can behavioural and educational constructs be measured rigorously?</span></div>
+        <div class="research-map-center">Responsible<br>Human–AI<br>Collaboration</div>
       </div>
     </section>
 
@@ -155,14 +157,14 @@ redirect_from:
       </div>
 
       <div class="profile-card">
-        <div class="profile-metrics" aria-label="Academic profile metrics">
-          <span><strong>830</strong> Google Scholar citations</span>
-          <span><strong>14</strong> SSCI / SCI articles</span>
-          <span><strong>9</strong> first or corresponding-author SSCI / SCI articles</span>
+        <div class="profile-metrics" aria-label="Academic profile metrics, updated July 2026">
+          <span><strong>830</strong> Google Scholar citations · July 2026</span>
+          <span><strong>18</strong> research outputs</span>
+          <span><strong>9</strong> first- or corresponding-author SSCI / SCI articles</span>
         </div>
 
         <div class="profile-facts">
-          <p><strong>Education</strong> PhD in Education, University of Cambridge; MEd, Harvard University; MRes, University College London.</p>
+          <p><strong>Education</strong> PhD in Education, University of Cambridge; MEd in Human Development and Education, Harvard University; MRes in Cognitive Neuroscience, University College London.</p>
           <p><strong>Recognition</strong> Wiley China Excellent Author, 2025; Research and Conferences Award, Lucy Cavendish College, 2026.</p>
         </div>
       </div>
@@ -170,47 +172,47 @@ redirect_from:
 
     <section class="console-publications" aria-labelledby="recent-publications-title">
       <div class="console-section-heading">
-        <p class="console-eyebrow" id="recent-publications-title">Recent Publications <i class="fas fa-circle" aria-hidden="true"></i></p>
+        <p class="console-eyebrow" id="recent-publications-title">Selected Publications <i class="fas fa-circle" aria-hidden="true"></i></p>
         <a href="/publications/">View all publications <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
       </div>
 
-      <div class="publication-filters" role="tablist" aria-label="Filter publications by topic">
-        <button type="button" class="is-active" data-filter="all" role="tab" aria-selected="true">All</button>
-        <button type="button" data-filter="ai-education" role="tab" aria-selected="false">AI in Education</button>
-        <button type="button" data-filter="human-ai" role="tab" aria-selected="false">Human–AI Interaction</button>
-        <button type="button" data-filter="information-systems" role="tab" aria-selected="false">Information Systems</button>
-        <button type="button" data-filter="social-cognition" role="tab" aria-selected="false">Social Cognition</button>
+      <div class="publication-filters" role="group" aria-label="Filter publications by research theme">
+        <button type="button" class="is-active" data-filter="all" aria-pressed="true">All</button>
+        <button type="button" data-filter="ai-education" aria-pressed="false">AI in Education</button>
+        <button type="button" data-filter="human-ai" aria-pressed="false">Human–AI Interaction</button>
+        <button type="button" data-filter="social-cognition" aria-pressed="false">Social Cognition</button>
+        <button type="button" data-filter="education-research" aria-pressed="false">Education & Measurement</button>
       </div>
 
       <div class="publication-list" aria-live="polite">
-        <a class="publication-row" data-topic="human-ai social-cognition" href="https://doi.org/10.1016/j.tele.2026.102390">
+        <a class="publication-row" data-topic="social-cognition" href="https://doi.org/10.1016/j.tele.2026.102390">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
           <span class="publication-copy"><strong>Was this person being ironic? The role of emojis in irony comprehension and memory</strong><small>Telematics and Informatics · 2026</small></span>
+          <span class="publication-topic">Social Cognition</span>
+          <i class="fas fa-chevron-right" aria-hidden="true"></i>
+        </a>
+        <a class="publication-row" data-topic="human-ai ai-education" href="https://doi.org/10.1002/jcal.70174">
+          <i class="fas fa-file-lines" aria-hidden="true"></i>
+          <span class="publication-copy"><strong>Are teachers addicted to AI? Dependence on generative AI through the I-PACE model</strong><small>Journal of Computer Assisted Learning · 2026</small></span>
           <span class="publication-topic">Human–AI Interaction</span>
           <i class="fas fa-chevron-right" aria-hidden="true"></i>
         </a>
-        <a class="publication-row" data-topic="ai-education" href="https://doi.org/10.1002/jcal.70174">
-          <i class="fas fa-file-lines" aria-hidden="true"></i>
-          <span class="publication-copy"><strong>Are teachers addicted to AI? Dependence on generative AI through the I-PACE model</strong><small>Journal of Computer Assisted Learning · 2026</small></span>
-          <span class="publication-topic">AI in Education</span>
-          <i class="fas fa-chevron-right" aria-hidden="true"></i>
-        </a>
-        <a class="publication-row" data-topic="ai-education" href="http://doi.org/10.1111/ijal.70204">
+        <a class="publication-row" data-topic="ai-education" href="https://doi.org/10.1111/ijal.70204">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
           <span class="publication-copy"><strong>Acceptance and engagement in AI-supported reading among primary school learners</strong><small>International Journal of Applied Linguistics · 2026</small></span>
           <span class="publication-topic">AI in Education</span>
           <i class="fas fa-chevron-right" aria-hidden="true"></i>
         </a>
-        <a class="publication-row" data-topic="ai-education human-ai" href="https://doi.org/10.1111/ijal.12827">
+        <a class="publication-row" data-topic="human-ai ai-education" href="https://doi.org/10.1111/ijal.12827">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
           <span class="publication-copy"><strong>Learners’ acceptance and use of multimodal AI-generated content</strong><small>International Journal of Applied Linguistics · 2026</small></span>
           <span class="publication-topic">Human–AI Interaction</span>
           <i class="fas fa-chevron-right" aria-hidden="true"></i>
         </a>
-        <p class="publication-empty" hidden>No recent publications match this topic yet. View the full publication archive for related work.</p>
+        <p class="publication-empty" hidden>No selected publications match this theme. View the complete archive for related work.</p>
       </div>
 
-      <p class="console-statement"><i class="fas fa-quote-left" aria-hidden="true"></i> Building evidence for responsible, human-centered AI that supports learning and society.</p>
+      <p class="console-statement"><i class="fas fa-quote-left" aria-hidden="true"></i> Building evidence for responsible, human-centred AI that supports learning and society.</p>
     </section>
   </main>
 </div>
