@@ -16,7 +16,7 @@ layout: compress
       {% include research-sidebar.html %}
       <main class="console-main research-page-main">
         <header class="research-page-header">
-          <p class="console-kicker">{{ page.kicker | default: 'Academic Profile' }}</p>
+          {% if page.kicker %}<p class="console-kicker">{{ page.kicker }}</p>{% endif %}
           <h1>{{ page.title }}</h1>
           {% if page.subtitle %}<p>{{ page.subtitle }}</p>{% endif %}
         </header>
