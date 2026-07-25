@@ -40,7 +40,6 @@ redirect_from:
   <main class="console-main">
     <section class="console-hero" aria-labelledby="hero-title">
       <div class="console-intro">
-        <p class="console-kicker">Welcome to my academic space</p>
         <h2 id="hero-title">Researching the future of learning with AI</h2>
         <p>Yiran Du is a PhD student in Education at the University of Cambridge. He holds a Master of Education in Human Development and Education from Harvard University. His research focuses on AI in education, human-AI interaction, information systems, and social cognition. His research has appeared in Telematics and Informatics, System, International Journal of Human–Computer Interaction, and Journal of Computer Assisted Learning, among others. He also serves as an ad hoc reviewer for a wide range of journals.</p>
       </div>
