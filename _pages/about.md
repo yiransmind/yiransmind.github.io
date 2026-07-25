@@ -46,7 +46,6 @@ redirect_from:
       <h1>Yiran Du</h1>
       <p class="console-role">PhD Student in Education</p>
       <p>University of Cambridge</p>
-      <p>Harvard MEd · UCL MRes</p>
     </div>
 
     <nav class="console-nav" aria-label="Primary navigation">
