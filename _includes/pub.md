@@ -1,12 +1,13 @@
 <p class="publication-note"><em>Names in bold denote myself, whereas an asterisk * identifies the corresponding author.</em></p>
 
 <div class="publication-theme-groups">
-  <section class="publication-theme-group" aria-labelledby="publications-2026" markdown="1">
-  <header class="publication-theme-heading">
-    <p class="console-eyebrow">Year</p>
-    <h2 id="publications-2026">2026</h2>
-    <p>8 publications</p>
-  </header>
+  <details class="publication-theme-group publication-year">
+  <summary class="publication-theme-heading" aria-controls="publications-2026-content">
+    <span class="console-eyebrow">Year</span>
+    <span class="publication-year-title" id="publications-2026">2026</span>
+    <i class="fas fa-chevron-down" aria-hidden="true"></i>
+  </summary>
+  <div class="publication-year-content" id="publications-2026-content" markdown="1">
 
   - Tang, M., Jia, K., He, H., Wang, C., Zou, B., & **Du, Y.\*** (2026). Acceptance and engagement in artificial intelligence-supported reading among primary school learners of English as a foreign language. *International Journal of Applied Linguistics*. [SSCI, IF = 3.8, [DOI](http://doi.org/10.1111/ijal.70204)]
 
@@ -23,28 +24,32 @@
   - Tang, M., Lau, K. L.\*, & **Du, Y.** (2026). Effects and moderators of dialogic reading on children’s reading literacy: A three-level meta-analysis on studies from 2000 to 2025. *International Journal of Educational Research, 137*, 102963. [SSCI, IF = 3.3, [DOI](https://doi.org/10.1016/j.ijer.2026.102963)]
 
   - Zhang, W., Zou, B.\*, & **Du, Y.** (2026). Teachers’ perceptions of the current practices and challenges in English for academic purposes: A survey study at universities in Shanghai, China. *International Journal of English for Academic Purposes*. [[DOI](https://doi.org/10.3828/ijeap.2026.2)]
-  </section>
+  </div>
+  </details>
 
-  <section class="publication-theme-group" aria-labelledby="publications-2025" markdown="1">
-  <header class="publication-theme-heading">
-    <p class="console-eyebrow">Year</p>
-    <h2 id="publications-2025">2025</h2>
-    <p>3 publications</p>
-  </header>
+  <details class="publication-theme-group publication-year">
+  <summary class="publication-theme-heading" aria-controls="publications-2025-content">
+    <span class="console-eyebrow">Year</span>
+    <span class="publication-year-title" id="publications-2025">2025</span>
+    <i class="fas fa-chevron-down" aria-hidden="true"></i>
+  </summary>
+  <div class="publication-year-content" id="publications-2025-content" markdown="1">
 
   - **Du, Y.\***, Wang, C., Zou, B.\*, & Xia, Y. (2025). Personalising AI tools for second language speaking: The role of gender and autistic traits. *Frontiers in Psychiatry, 15*, 1464575. [SCI, IF = 3.8, [DOI](https://doi.org/10.3389/fpsyt.2024.1464575)]
 
   - Du, C., Tang, M., Wang, C., Zou, B., Xia, Y., & **Du, Y.\*** (2025). Who is most likely to accept AI chatbots? A sequential explanatory mixed-methods study of personality and ChatGPT acceptance for language learning. *Innovation in Language Learning and Teaching*, 1–22. [SSCI, IF = 5.5, [DOI](https://doi.org/10.1080/17501229.2025.2555515)]
 
   - **Du, Y.\*** (2025). The impact of emojis on verbal irony comprehension in computer-mediated communication: A cross-cultural study. *International Journal of Human–Computer Interaction, 41*(8), 4979–4986. [SCI, IF = 6.1, [DOI](https://doi.org/10.1080/10447318.2024.2356398)]
-  </section>
+  </div>
+  </details>
 
-  <section class="publication-theme-group" aria-labelledby="publications-2024" markdown="1">
-  <header class="publication-theme-heading">
-    <p class="console-eyebrow">Year</p>
-    <h2 id="publications-2024">2024</h2>
-    <p>5 publications</p>
-  </header>
+  <details class="publication-theme-group publication-year">
+  <summary class="publication-theme-heading" aria-controls="publications-2024-content">
+    <span class="console-eyebrow">Year</span>
+    <span class="publication-year-title" id="publications-2024">2024</span>
+    <i class="fas fa-chevron-down" aria-hidden="true"></i>
+  </summary>
+  <div class="publication-year-content" id="publications-2024-content" markdown="1">
 
   - Zou, B., Liviero, S., Li, M., Zhang, W., **Du, Y.\***, & Xing, P. (2024). Exploring EFL learners’ perceived promise and limitations of using an artificial intelligence speech evaluation system for speaking practice. *System, 126*, 103497. [SSCI, IF = 8.0, [DOI](https://doi.org/10.1016/j.system.2024.103497)]
 
@@ -55,17 +60,20 @@
   - He, H.\*, & **Du, Y.** (2024). The effectiveness of dialogical argumentation in supporting low-level EAP learners’ evidence-based writing: A longitudinal study. In B. Zou & T. Mahy (Eds.), *English for Academic Purposes in the EMI Context in Asia: XJTLU Impact* (pp. 45–75). Springer Nature Switzerland. [[DOI](https://doi.org/10.1007/978-3-031-63638-7_3)]
 
   - **Du, Y.\*** (2024). A streamlined approach to scale adaptation: Enhancing validity and feasibility in educational measurement. *Journal of Language Teaching, 4*(3), 18–22. [[DOI](https://doi.org/10.54475/jlt.2024.017)]
-  </section>
+  </div>
+  </details>
 
-  <section class="publication-theme-group" aria-labelledby="publications-2023" markdown="1">
-  <header class="publication-theme-heading">
-    <p class="console-eyebrow">Year</p>
-    <h2 id="publications-2023">2023</h2>
-    <p>2 publications</p>
-  </header>
+  <details class="publication-theme-group publication-year">
+  <summary class="publication-theme-heading" aria-controls="publications-2023-content">
+    <span class="console-eyebrow">Year</span>
+    <span class="publication-year-title" id="publications-2023">2023</span>
+    <i class="fas fa-chevron-down" aria-hidden="true"></i>
+  </summary>
+  <div class="publication-year-content" id="publications-2023-content" markdown="1">
 
   - Zou, B., **Du, Y.**, Wang, Z., Chen, J., & Zhang, W.\* (2023). An investigation into artificial intelligence speech evaluation programs with automatic feedback for developing EFL learners’ speaking skills. *SAGE Open, 2023*(7). [SSCI, IF = 2.4, [DOI](https://doi.org/10.1177/21582440231193818)]
 
   - Du, Y.* (2023). A corpus-based study to evaluate the generativist explanation of children’s error patterns in questions. *Journal of Language Teaching, 3*(3), 26–38. [[DOI](https://doi.org/10.54475/jlt.2023.007)]
-  </section>
+  </div>
+  </details>
 </div>
