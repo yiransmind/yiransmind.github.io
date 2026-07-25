@@ -53,9 +53,43 @@ redirect_from:
     color: var(--console-text);
     font-weight: 600;
   }
+  .research-themes {
+    align-self: stretch;
+    padding: 28px;
+    background: var(--console-panel);
+    border: 1px solid var(--console-line);
+    border-radius: 14px;
+  }
+  .research-theme-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+    margin-top: 22px;
+  }
+  .research-theme-card {
+    min-height: 112px;
+    padding: 20px;
+    background: var(--console-bg-deep);
+    border: 1px solid var(--console-line);
+    border-radius: 10px;
+  }
+  .research-theme-card span {
+    display: block;
+    margin-bottom: 20px;
+    color: var(--console-muted);
+    font-size: 0.66rem;
+    letter-spacing: 0.14em;
+  }
+  .research-theme-card strong {
+    color: var(--console-accent);
+    font-size: 0.95rem;
+    font-weight: 500;
+    line-height: 1.35;
+  }
   .console-publications .publication-row { grid-template-columns: 24px minmax(0, 1fr) 16px; }
   @media screen and (max-width: 800px) {
     .console-profile--compact .profile-metrics { grid-template-columns: 1fr; }
+    .research-theme-grid { grid-template-columns: 1fr; }
     .console-profile--compact .profile-metrics span {
       padding: 0 0 16px;
       border-right: 0 !important;
@@ -105,24 +139,33 @@ redirect_from:
       <div class="console-intro">
         <p class="console-kicker">Welcome to my academic space</p>
         <h2 id="hero-title">Researching the future of learning with AI</h2>
-        <p>I study how artificial intelligence can support learning and human collaboration.</p>
+        <p>Yiran Du is a PhD student in Education at the University of Cambridge. He holds a Master of Education in Human Development and Education from Harvard University. His research focuses on AI in education, human-AI interaction, information systems, and social cognition. His research has appeared in Telematics and Informatics, System, International Journal of Human–Computer Interaction, and Journal of Computer Assisted Learning, among others. He also serves as an ad hoc reviewer for a wide range of journals.</p>
         <div class="console-actions">
-          <a class="console-button" href="#research-map">Explore research <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+          <a class="console-button" href="#research-themes">Research themes <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
           <a class="console-text-link" href="/publications/">View publications <i class="fas fa-chevron-right" aria-hidden="true"></i></a>
         </div>
       </div>
 
-      <div class="research-map" id="research-map">
-        <div class="research-map-heading">
-          <p class="console-eyebrow"><i class="fas fa-circle" aria-hidden="true"></i> Research Map</p>
-          <p>How my research areas connect and inform each other.</p>
+      <div class="research-themes" id="research-themes">
+        <p class="console-eyebrow"><i class="fas fa-circle" aria-hidden="true"></i> Research Themes</p>
+        <div class="research-theme-grid">
+          <div class="research-theme-card">
+            <span>01</span>
+            <strong>AI in Education</strong>
+          </div>
+          <div class="research-theme-card">
+            <span>02</span>
+            <strong>Human–AI Interaction</strong>
+          </div>
+          <div class="research-theme-card">
+            <span>03</span>
+            <strong>Information Systems</strong>
+          </div>
+          <div class="research-theme-card">
+            <span>04</span>
+            <strong>Social Cognition</strong>
+          </div>
         </div>
-        <img src="/images/research-network.jpg" alt="Abstract network connecting four research areas to human-AI collaboration">
-        <div class="research-map-label research-map-label--one"><strong>AI in Education</strong><span>Learning environments and analytics</span></div>
-        <div class="research-map-label research-map-label--two"><strong>Human–AI Interaction</strong><span>Trust and collaborative AI</span></div>
-        <div class="research-map-label research-map-label--three"><strong>Information Systems</strong><span>Platforms and governance</span></div>
-        <div class="research-map-label research-map-label--four"><strong>Social Cognition</strong><span>Behavior and social influence</span></div>
-        <div class="research-map-center">Human–AI<br>Collaboration</div>
       </div>
     </section>
 
