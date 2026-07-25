@@ -10,7 +10,7 @@
 
   - Tang, M., Jia, K., He, H., Wang, C., Zou, B., & **Du, Y.\*** (2026). Acceptance and engagement in artificial intelligence-supported reading among primary school learners of English as a foreign language. *International Journal of Applied Linguistics*. [SSCI, IF = 3.8, [DOI](http://doi.org/10.1111/ijal.70204)]
 
-  - Cui, K., Li, J., He, H., Wang, C., Zou, B., & **Du, Y.\*** (under review). Exploring psychological pathways to pedagogical AI overreliance among Chinese teachers through the cognitive–affective–conative framework. *Journal of Research on Technology in Education*, 1–20. [SSCI, IF = 3.5]
+  - Cui, K., Li, J., He, H., Wang, C., Zou, B., & **Du, Y.\*** (under review). Exploring psychological pathways to pedagogical AI overreliance among Chinese teachers through cognitive–affective–conative framework. *Journal of Research on Technology in Education*, 1–20. [SSCI, IF = 3.5, [DOI](https://doi.org/10.1080/15391523.2026.2700717)]
 
   - **Du, Y.\***, Tang, M., Jia, K., Wang, C., & Zou, B. (2026). Are teachers addicted to AI? Analysing factors influencing dependence on generative AI through the I-PACE model. *Journal of Computer Assisted Learning, 42*(1), e70174. [SSCI, IF = 5.7, [DOI](https://doi.org/10.1002/jcal.70174)]
 
