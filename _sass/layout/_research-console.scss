@@ -837,6 +837,7 @@ html:not([data-theme="dark"]) .research-map-center {
   &[hidden] { display: none; }
 
   > summary::-webkit-details-marker { display: none; }
+  > summary::marker { content: ""; }
 }
 
 .publication-theme-heading {
