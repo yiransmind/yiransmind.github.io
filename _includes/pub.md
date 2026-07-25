@@ -5,7 +5,6 @@
   <summary class="publication-theme-heading" aria-controls="publications-2026-content">
     <span class="console-eyebrow">Year</span>
     <span class="publication-year-title" id="publications-2026">2026</span>
-    <i class="fas fa-chevron-down" aria-hidden="true"></i>
   </summary>
   <div class="publication-year-content" id="publications-2026-content" markdown="1">
 
@@ -31,7 +30,6 @@
   <summary class="publication-theme-heading" aria-controls="publications-2025-content">
     <span class="console-eyebrow">Year</span>
     <span class="publication-year-title" id="publications-2025">2025</span>
-    <i class="fas fa-chevron-down" aria-hidden="true"></i>
   </summary>
   <div class="publication-year-content" id="publications-2025-content" markdown="1">
 
@@ -47,7 +45,6 @@
   <summary class="publication-theme-heading" aria-controls="publications-2024-content">
     <span class="console-eyebrow">Year</span>
     <span class="publication-year-title" id="publications-2024">2024</span>
-    <i class="fas fa-chevron-down" aria-hidden="true"></i>
   </summary>
   <div class="publication-year-content" id="publications-2024-content" markdown="1">
 
@@ -67,7 +64,6 @@
   <summary class="publication-theme-heading" aria-controls="publications-2023-content">
     <span class="console-eyebrow">Year</span>
     <span class="publication-year-title" id="publications-2023">2023</span>
-    <i class="fas fa-chevron-down" aria-hidden="true"></i>
   </summary>
   <div class="publication-year-content" id="publications-2023-content" markdown="1">
 
