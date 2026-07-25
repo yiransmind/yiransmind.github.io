@@ -54,7 +54,7 @@ redirect_from:
     font-weight: 600;
   }
   .research-themes {
-    align-self: stretch;
+    align-self: start;
     padding: 28px;
     background: var(--console-panel);
     border: 1px solid var(--console-line);
