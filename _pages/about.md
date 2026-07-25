@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 <style>
-  .console-profile--compact { margin-top: 46px; }
+  .console-profile--compact { margin-top: 42px; }
   .profile-card {
-    margin-top: 22px;
-    padding: 24px;
-    background: radial-gradient(circle at 0% 0%, var(--console-accent-soft), transparent 32%), var(--console-panel);
-    border: 1px solid var(--console-line);
-    border-radius: 14px;
+    margin-top: 18px;
+    padding: 0;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
   }
   .console-profile--compact .profile-metrics {
     display: grid;
@@ -25,7 +25,7 @@ redirect_from:
   }
   .console-profile--compact .profile-metrics span {
     display: block;
-    padding: 0 20px 22px;
+    padding: 0 28px 22px;
     color: var(--console-muted);
     font-size: 0.78rem;
     line-height: 1.45;
@@ -37,14 +37,14 @@ redirect_from:
     display: block;
     margin-bottom: 5px;
     color: var(--console-accent);
-    font-size: clamp(1.5rem, 3vw, 2.2rem);
+    font-size: clamp(2rem, 3.2vw, 2.85rem);
     font-weight: 300;
     letter-spacing: -0.05em;
     line-height: 1;
   }
   .profile-recognition {
     margin: 0;
-    padding-top: 20px;
+    padding-top: 15px;
     color: var(--console-muted);
     font-size: 0.83rem;
     line-height: 1.65;
@@ -54,8 +54,23 @@ redirect_from:
     font-weight: 600;
   }
   .console-hero { grid-template-columns: minmax(0, 1fr); }
-  .console-intro { max-width: 920px; }
-  .console-publications .publication-row { grid-template-columns: 24px minmax(0, 1fr) 16px; }
+  .console-intro { max-width: 1060px; }
+  .console-intro h2 {
+    max-width: 780px;
+    margin: 24px 0 20px;
+    font-size: clamp(3rem, 4.8vw, 4.75rem);
+  }
+  .console-intro p:not(.console-kicker) {
+    max-width: 820px;
+    line-height: 1.65;
+  }
+  .console-publications { margin-top: 44px; }
+  .console-publications .publication-row {
+    grid-template-columns: 24px minmax(0, 1fr) 16px;
+    min-height: 78px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+  }
   @media screen and (max-width: 800px) {
     .console-profile--compact .profile-metrics { grid-template-columns: 1fr; }
     .console-profile--compact .profile-metrics span {
