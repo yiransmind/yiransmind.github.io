@@ -8,51 +8,6 @@ redirect_from:
 ---
 
 <style>
-  .console-profile--compact { margin-top: 58px; }
-  .profile-card {
-    margin-top: 18px;
-    padding: 0;
-    background: transparent;
-    border: 0;
-    border-radius: 0;
-  }
-  .console-profile--compact .profile-metrics {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 0;
-    margin: 0;
-    border-bottom: 1px solid var(--console-line);
-  }
-  .console-profile--compact .profile-metrics span {
-    display: block;
-    padding: 0 28px 22px;
-    color: var(--console-muted);
-    font-size: 0.78rem;
-    line-height: 1.45;
-  }
-  .console-profile--compact .profile-metrics span:first-child { padding-left: 0; }
-  .console-profile--compact .profile-metrics span:last-child { padding-right: 0; }
-  .console-profile--compact .profile-metrics span:not(:last-child) { border-right: 1px solid var(--console-line); }
-  .console-profile--compact .profile-metrics strong {
-    display: block;
-    margin-bottom: 5px;
-    color: var(--console-accent);
-    font-size: clamp(2rem, 3.2vw, 2.85rem);
-    font-weight: 300;
-    letter-spacing: -0.05em;
-    line-height: 1;
-  }
-  .profile-recognition {
-    margin: 0;
-    padding-top: 15px;
-    color: var(--console-muted);
-    font-size: 0.83rem;
-    line-height: 1.65;
-  }
-  .profile-recognition strong {
-    color: var(--console-text);
-    font-weight: 600;
-  }
   .console-hero { grid-template-columns: minmax(0, 1fr); }
   .console-intro { max-width: 1060px; }
   .console-intro h2 {
@@ -75,17 +30,6 @@ redirect_from:
     .console-main {
       padding-left: 76px;
       padding-right: 32px;
-    }
-  }
-  @media screen and (max-width: 800px) {
-    .console-profile--compact .profile-metrics { grid-template-columns: 1fr; }
-    .console-profile--compact .profile-metrics span {
-      padding: 0 0 16px;
-      border-right: 0 !important;
-    }
-    .console-profile--compact .profile-metrics span:not(:last-child) {
-      margin-bottom: 16px;
-      border-bottom: 1px solid var(--console-line);
     }
   }
 </style>
@@ -141,22 +85,6 @@ redirect_from:
         <p>Yiran Du is a PhD student in Education at the University of Cambridge. He holds a Master of Education in Human Development and Education from Harvard University. His research focuses on AI in education, human-AI interaction, information systems, and social cognition. His research has appeared in Telematics and Informatics, System, International Journal of Human–Computer Interaction, and Journal of Computer Assisted Learning, among others. He also serves as an ad hoc reviewer for a wide range of journals.</p>
       </div>
 
-    </section>
-
-    <section class="console-profile console-profile--compact" aria-labelledby="profile-title">
-      <div class="console-section-heading">
-        <p class="console-eyebrow" id="profile-title">Research at a glance <i class="fas fa-circle" aria-hidden="true"></i></p>
-      </div>
-
-      <div class="profile-card">
-        <div class="profile-metrics" aria-label="Academic profile metrics">
-          <span><strong>830</strong> Google Scholar citations</span>
-          <span><strong>14</strong> SSCI / SCI articles</span>
-          <span><strong>9</strong> first or corresponding-author SSCI / SCI articles</span>
-        </div>
-
-        <p class="profile-recognition"><strong>Recognition:</strong> Wiley China Excellent Author (2025) · Lucy Cavendish College Research and Conferences Award (2026)</p>
-      </div>
     </section>
 
     <section class="console-publications" aria-labelledby="highlighted-publications-title">
