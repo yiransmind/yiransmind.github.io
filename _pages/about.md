@@ -35,46 +35,7 @@ redirect_from:
 </style>
 
 <div class="research-console">
-  <button class="console-mobile-toggle" type="button" aria-expanded="false" aria-controls="console-sidebar">
-    <i class="fas fa-bars" aria-hidden="true"></i>
-    <span>Menu</span>
-  </button>
-
-  <aside class="console-sidebar" id="console-sidebar" aria-label="Profile and navigation">
-    <div class="console-identity">
-      <img src="/images/image.jpg" alt="Portrait of Yiran Du" class="console-avatar">
-      <h1>Yiran Du</h1>
-      <p class="console-role">PhD Student in Education</p>
-      <p>University of Cambridge</p>
-    </div>
-
-    <nav class="console-nav" aria-label="Primary navigation">
-      <a class="is-active" href="/" aria-current="page"><i class="fas fa-house" aria-hidden="true"></i>Homepage</a>
-      <a href="/publications/"><i class="fas fa-file-lines" aria-hidden="true"></i>Publications</a>
-      <a href="/academic-service/"><i class="fas fa-user-group" aria-hidden="true"></i>Academic Service</a>
-    </nav>
-
-    <button id="theme-toggle" class="console-theme" type="button" aria-label="Toggle light and dark theme">
-      <i id="theme-icon" class="fas fa-moon" aria-hidden="true"></i>
-      <span>Switch theme</span>
-    </button>
-
-    <div class="console-focus" aria-label="Research themes">
-      <p class="console-eyebrow">Research Themes</p>
-      <ul>
-        <li>AI in Education</li>
-        <li>Human–AI Interaction</li>
-        <li>Information Systems</li>
-        <li>Social Cognition</li>
-      </ul>
-    </div>
-
-    <div class="console-connect">
-      <span>Let’s connect</span>
-      <a href="mailto:yd392@cam.ac.uk" aria-label="Email Yiran Du"><i class="fas fa-envelope" aria-hidden="true"></i></a>
-      <a href="/files/CV.pdf" aria-label="Download Yiran Du’s CV"><i class="fas fa-file-arrow-down" aria-hidden="true"></i></a>
-    </div>
-  </aside>
+  {% include research-sidebar.html %}
 
   <main class="console-main">
     <section class="console-hero" aria-labelledby="hero-title">
