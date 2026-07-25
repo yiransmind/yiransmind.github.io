@@ -2,8 +2,6 @@
 layout: research-page
 title: "Academic Service"
 permalink: /academic-service/
-kicker: "Scholarly contribution"
-subtitle: "Editorial and peer-review service across education, psychology, linguistics, human–computer interaction, and information systems."
 ---
 
 ## Editorial Roles
