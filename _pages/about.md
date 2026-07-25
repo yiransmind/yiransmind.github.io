@@ -42,30 +42,20 @@ redirect_from:
     letter-spacing: -0.05em;
     line-height: 1;
   }
-  .profile-facts {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 26px;
-    padding-top: 20px;
-  }
-  .profile-facts p {
+  .profile-recognition {
     margin: 0;
+    padding-top: 20px;
     color: var(--console-muted);
     font-size: 0.83rem;
     line-height: 1.65;
   }
-  .profile-facts strong {
-    display: block;
-    margin-bottom: 4px;
+  .profile-recognition strong {
     color: var(--console-text);
-    font-size: 0.72rem;
     font-weight: 600;
-    letter-spacing: 0.13em;
-    text-transform: uppercase;
   }
+  .console-publications .publication-row { grid-template-columns: 24px minmax(0, 1fr) 16px; }
   @media screen and (max-width: 800px) {
-    .console-profile--compact .profile-metrics,
-    .profile-facts { grid-template-columns: 1fr; }
+    .console-profile--compact .profile-metrics { grid-template-columns: 1fr; }
     .console-profile--compact .profile-metrics span {
       padding: 0 0 16px;
       border-right: 0 !important;
@@ -74,7 +64,6 @@ redirect_from:
       margin-bottom: 16px;
       border-bottom: 1px solid var(--console-line);
     }
-    .profile-facts { gap: 16px; }
   }
 </style>
 
@@ -104,16 +93,6 @@ redirect_from:
       <span>Switch theme</span>
     </button>
 
-    <div class="console-focus" aria-label="Research focus">
-      <p class="console-eyebrow">Research Focus</p>
-      <ul>
-        <li>Artificial Intelligence in Education</li>
-        <li>Human–AI Interaction</li>
-        <li>Information Systems</li>
-        <li>Social Cognition</li>
-      </ul>
-    </div>
-
     <div class="console-connect">
       <span>Let’s connect</span>
       <a href="mailto:yd392@cam.ac.uk" aria-label="Email Yiran Du"><i class="fas fa-envelope" aria-hidden="true"></i></a>
@@ -126,8 +105,7 @@ redirect_from:
       <div class="console-intro">
         <p class="console-kicker">Welcome to my academic space</p>
         <h2 id="hero-title">Researching the future of learning with AI</h2>
-        <p>Yiran Du is a PhD student in Education at the University of Cambridge. He holds a Master of Education in Human Development and Education from Harvard University and a Master of Research in Cognitive Neuroscience from University College London.</p>
-        <p>His research focuses on artificial intelligence in education, human-AI interaction, information systems, and social cognition.</p>
+        <p>I study how artificial intelligence can support learning and human collaboration.</p>
         <div class="console-actions">
           <a class="console-button" href="#research-map">Explore research <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
           <a class="console-text-link" href="/publications/">View publications <i class="fas fa-chevron-right" aria-hidden="true"></i></a>
@@ -150,8 +128,7 @@ redirect_from:
 
     <section class="console-profile console-profile--compact" aria-labelledby="profile-title">
       <div class="console-section-heading">
-        <p class="console-eyebrow" id="profile-title">Profile <i class="fas fa-circle" aria-hidden="true"></i></p>
-        <a href="/academic-service/">Academic service <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+        <p class="console-eyebrow" id="profile-title">Research at a glance <i class="fas fa-circle" aria-hidden="true"></i></p>
       </div>
 
       <div class="profile-card">
@@ -161,10 +138,7 @@ redirect_from:
           <span><strong>9</strong> first or corresponding-author SSCI / SCI articles</span>
         </div>
 
-        <div class="profile-facts">
-          <p><strong>Education</strong> PhD in Education, University of Cambridge; MEd, Harvard University; MRes, University College London.</p>
-          <p><strong>Recognition</strong> Wiley China Excellent Author, 2025; Research and Conferences Award, Lucy Cavendish College, 2026.</p>
-        </div>
+        <p class="profile-recognition"><strong>Recognition:</strong> Wiley China Excellent Author (2025) · Lucy Cavendish College Research and Conferences Award (2026)</p>
       </div>
     </section>
 
@@ -178,36 +152,30 @@ redirect_from:
         <a class="publication-row" href="https://doi.org/10.1016/j.tele.2026.102390">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
           <span class="publication-copy"><strong>Was this person being ironic? The role of emojis in irony comprehension and memory</strong><small>Telematics and Informatics · 2026</small></span>
-          <span class="publication-topic">Selected work</span>
           <i class="fas fa-chevron-right" aria-hidden="true"></i>
         </a>
         <a class="publication-row" href="https://doi.org/10.1016/j.system.2024.103533">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
           <span class="publication-copy"><strong>The impact of conversational generative AI chatbots on EFL learners</strong><small>System · 2024</small></span>
-          <span class="publication-topic">Selected work</span>
           <i class="fas fa-chevron-right" aria-hidden="true"></i>
         </a>
         <a class="publication-row" href="https://doi.org/10.1002/jcal.70174">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
           <span class="publication-copy"><strong>Are teachers addicted to AI? Dependence on generative AI through the I-PACE model</strong><small>Journal of Computer Assisted Learning · 2026</small></span>
-          <span class="publication-topic">Selected work</span>
           <i class="fas fa-chevron-right" aria-hidden="true"></i>
         </a>
         <a class="publication-row" href="http://doi.org/10.1111/ijal.70204">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
           <span class="publication-copy"><strong>Acceptance and engagement in AI-supported reading among primary school learners</strong><small>International Journal of Applied Linguistics · 2026</small></span>
-          <span class="publication-topic">Selected work</span>
           <i class="fas fa-chevron-right" aria-hidden="true"></i>
         </a>
         <a class="publication-row" href="https://doi.org/10.1111/ijal.12827">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
           <span class="publication-copy"><strong>Learners’ acceptance and use of multimodal AI-generated content</strong><small>International Journal of Applied Linguistics · 2026</small></span>
-          <span class="publication-topic">Selected work</span>
           <i class="fas fa-chevron-right" aria-hidden="true"></i>
         </a>
       </div>
 
-      <p class="console-statement"><i class="fas fa-quote-left" aria-hidden="true"></i> Building evidence for responsible, human-centered AI that supports learning and society.</p>
     </section>
   </main>
 </div>
