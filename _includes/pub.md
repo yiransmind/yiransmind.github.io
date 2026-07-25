@@ -12,7 +12,7 @@
 
   - **Du, Y.\***, Yuan, Y., Wang, C., Zou, B., He, H., & Jia, K. (2026). Was this person being ironic? The role of emojis in irony comprehension and memory in computer-mediated communication: Insights from the UK and China. *Telematics and Informatics, 106*, 102390. [SSCI, IF = 9.9, [DOI](https://doi.org/10.1016/j.tele.2026.102390)]
 
-- Tang, M., Jia, K., He, H., Wang, C., Zou, B., & **Du, Y.\*** (2026). Acceptance and engagement in artificial intelligence-supported reading among primary school learners of English as a foreign language. *International Journal of Applied Linguistics*. [SSCI, IF = 3.8, [DOI](http://doi.org/10.1111/ijal.70204)]
+  - Tang, M., Jia, K., He, H., Wang, C., Zou, B., & **Du, Y.\*** (2026). Acceptance and engagement in artificial intelligence-supported reading among primary school learners of English as a foreign language. *International Journal of Applied Linguistics*. [SSCI, IF = 3.8, [DOI](http://doi.org/10.1111/ijal.70204)]
 
   - Tang, M., Lau, K. L.\*, & **Du, Y.** (2026). Effects and moderators of dialogic reading on children’s reading literacy: A three-level meta-analysis on studies from 2000 to 2025. *International Journal of Educational Research, 137*, 102963. [SSCI, IF = 3.3, [DOI](https://doi.org/10.1016/j.ijer.2026.102963)]
 
@@ -33,7 +33,7 @@
   </summary>
   <div class="publication-year-content" id="publications-2025-content" markdown="1">
 
-- **Du, Y.\***, Wang, C., Zou, B.\*, & Xia, Y. (2025). Personalising AI tools for second language speaking: The role of gender and autistic traits. *Frontiers in Psychiatry, 15*, 1464575. [SCI, IF = 3.8, [DOI](https://doi.org/10.3389/fpsyt.2024.1464575)]
+  - **Du, Y.\***, Wang, C., Zou, B.\*, & Xia, Y. (2025). Personalising AI tools for second language speaking: The role of gender and autistic traits. *Frontiers in Psychiatry, 15*, 1464575. [SCI, IF = 3.8, [DOI](https://doi.org/10.3389/fpsyt.2024.1464575)]
 
   - **Du, Y.\*** (2025). The impact of emojis on verbal irony comprehension in computer-mediated communication: A cross-cultural study. *International Journal of Human–Computer Interaction, 41*(8), 4979–4986. [SCI, IF = 6.1, [DOI](https://doi.org/10.1080/10447318.2024.2356398)]
 
@@ -56,7 +56,7 @@
 
   - Wang, C., Zou, B., **Du, Y.**, & Wang, Z.\* (2024). The impact of different conversational generative AI chatbots on EFL learners: An analysis of willingness to communicate, foreign language speaking anxiety, and self-perceived communicative competence. *System*, 103533. [SSCI, IF = 8.0, [DOI](https://doi.org/10.1016/j.system.2024.103533)]
 
-- Zou, B., Liviero, S., Li, M., Zhang, W., **Du, Y.\***, & Xing, P. (2024). Exploring EFL learners’ perceived promise and limitations of using an artificial intelligence speech evaluation system for speaking practice. *System, 126*, 103497. [SSCI, IF = 8.0, [DOI](https://doi.org/10.1016/j.system.2024.103497)]
+  - Zou, B., Liviero, S., Li, M., Zhang, W., **Du, Y.\***, & Xing, P. (2024). Exploring EFL learners’ perceived promise and limitations of using an artificial intelligence speech evaluation system for speaking practice. *System, 126*, 103497. [SSCI, IF = 8.0, [DOI](https://doi.org/10.1016/j.system.2024.103497)]
   </div>
   </details>
 
@@ -69,7 +69,7 @@
 
   - Du, Y.* (2023). A corpus-based study to evaluate the generativist explanation of children’s error patterns in questions. *Journal of Language Teaching, 3*(3), 26–38. [[DOI](https://doi.org/10.54475/jlt.2023.007)]
 
-- Zou, B., **Du, Y.**, Wang, Z., Chen, J., & Zhang, W.\* (2023). An investigation into artificial intelligence speech evaluation programs with automatic feedback for developing EFL learners’ speaking skills. *SAGE Open, 2023*(7). [SSCI, IF = 2.4, [DOI](https://doi.org/10.1177/21582440231193818)]
+  - Zou, B., **Du, Y.**, Wang, Z., Chen, J., & Zhang, W.\* (2023). An investigation into artificial intelligence speech evaluation programs with automatic feedback for developing EFL learners’ speaking skills. *SAGE Open, 2023*(7). [SSCI, IF = 2.4, [DOI](https://doi.org/10.1177/21582440231193818)]
   </div>
   </details>
 </div>
