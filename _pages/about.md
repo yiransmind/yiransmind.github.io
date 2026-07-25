@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <style>
-  .console-profile--compact { margin-top: 42px; }
+  .console-profile--compact { margin-top: 58px; }
   .profile-card {
     margin-top: 18px;
     padding: 0;
@@ -64,12 +64,18 @@ redirect_from:
     max-width: 820px;
     line-height: 1.65;
   }
-  .console-publications { margin-top: 44px; }
+  .console-publications { margin-top: 52px; }
   .console-publications .publication-row {
     grid-template-columns: 24px minmax(0, 1fr) 16px;
     min-height: 78px;
     padding-top: 13px;
     padding-bottom: 13px;
+  }
+  @media screen and (min-width: 1200px) {
+    .console-main {
+      padding-left: 76px;
+      padding-right: 32px;
+    }
   }
   @media screen and (max-width: 800px) {
     .console-profile--compact .profile-metrics { grid-template-columns: 1fr; }
