@@ -8,6 +8,8 @@
   </summary>
   <div class="publication-year-content" id="publications-2026-content" markdown="1">
 
+  - Cui, K., Li, J., He, H., Wang, C., Zou, B., & **Du, Y.\*** (2026). Exploring psychological pathways to pedagogical AI overreliance among Chinese teachers through cognitive–affective–conative framework. *Journal of Research on Technology in Education*, 1–20. [SSCI, IF = 3.5, [DOI](https://doi.org/10.1080/15391523.2026.2700717)]
+
   - **Du, Y.\***, Tang, M., Jia, K., Wang, C., & Zou, B. (2026). Are teachers addicted to AI? Analysing factors influencing dependence on generative AI through the I-PACE model. *Journal of Computer Assisted Learning, 42*(1), e70174. [SSCI, IF = 5.7, [DOI](https://doi.org/10.1002/jcal.70174)]
 
   - **Du, Y.\***, Yuan, Y., Wang, C., Zou, B., He, H., & Jia, K. (2026). Was this person being ironic? The role of emojis in irony comprehension and memory in computer-mediated communication: Insights from the UK and China. *Telematics and Informatics, 106*, 102390. [SSCI, IF = 9.9, [DOI](https://doi.org/10.1016/j.tele.2026.102390)]
@@ -21,8 +23,6 @@
   - Wang, C., Zou, B.\*, Zhang, W.\*, **Du, Y.**, & Hu, W. (2026). Understanding EFL teachers’ affective and cognitive responses to ChatGPT in higher education. *Humanities and Social Sciences Communications*. [SSCI, IF = 4.8, [DOI](https://doi.org/10.1057/s41599-026-07360-3)]
 
   - Zhang, W., Zou, B.\*, & **Du, Y.** (2026). Teachers’ perceptions of the current practices and challenges in English for academic purposes: A survey study at universities in Shanghai, China. *International Journal of English for Academic Purposes*. [[DOI](https://doi.org/10.3828/ijeap.2026.2)]
-
-  - Cui, K., Li, J., He, H., Wang, C., Zou, B., & **Du, Y.\*** (under review). Exploring psychological pathways to pedagogical AI overreliance among Chinese teachers through cognitive–affective–conative framework. *Journal of Research on Technology in Education*, 1–20. [SSCI, IF = 3.5, [DOI](https://doi.org/10.1080/15391523.2026.2700717)]
   </div>
   </details>
 
