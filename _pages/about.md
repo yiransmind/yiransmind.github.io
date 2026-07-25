@@ -168,46 +168,43 @@ redirect_from:
       </div>
     </section>
 
-    <section class="console-publications" aria-labelledby="recent-publications-title">
+    <section class="console-publications" aria-labelledby="highlighted-publications-title">
       <div class="console-section-heading">
-        <p class="console-eyebrow" id="recent-publications-title">Recent Publications <i class="fas fa-circle" aria-hidden="true"></i></p>
+        <p class="console-eyebrow" id="highlighted-publications-title">Highlighted Publications <i class="fas fa-circle" aria-hidden="true"></i></p>
         <a href="/publications/">View all publications <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
       </div>
 
-      <div class="publication-filters" role="tablist" aria-label="Filter publications by topic">
-        <button type="button" class="is-active" data-filter="all" role="tab" aria-selected="true">All</button>
-        <button type="button" data-filter="ai-education" role="tab" aria-selected="false">AI in Education</button>
-        <button type="button" data-filter="human-ai" role="tab" aria-selected="false">Human–AI Interaction</button>
-        <button type="button" data-filter="information-systems" role="tab" aria-selected="false">Information Systems</button>
-        <button type="button" data-filter="social-cognition" role="tab" aria-selected="false">Social Cognition</button>
-      </div>
-
-      <div class="publication-list" aria-live="polite">
-        <a class="publication-row" data-topic="human-ai social-cognition" href="https://doi.org/10.1016/j.tele.2026.102390">
+      <div class="publication-list">
+        <a class="publication-row" href="https://doi.org/10.1016/j.tele.2026.102390">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
           <span class="publication-copy"><strong>Was this person being ironic? The role of emojis in irony comprehension and memory</strong><small>Telematics and Informatics · 2026</small></span>
-          <span class="publication-topic">Human–AI Interaction</span>
+          <span class="publication-topic">Selected work</span>
           <i class="fas fa-chevron-right" aria-hidden="true"></i>
         </a>
-        <a class="publication-row" data-topic="ai-education" href="https://doi.org/10.1002/jcal.70174">
+        <a class="publication-row" href="https://doi.org/10.1016/j.system.2024.103533">
+          <i class="fas fa-file-lines" aria-hidden="true"></i>
+          <span class="publication-copy"><strong>The impact of conversational generative AI chatbots on EFL learners</strong><small>System · 2024</small></span>
+          <span class="publication-topic">Selected work</span>
+          <i class="fas fa-chevron-right" aria-hidden="true"></i>
+        </a>
+        <a class="publication-row" href="https://doi.org/10.1002/jcal.70174">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
           <span class="publication-copy"><strong>Are teachers addicted to AI? Dependence on generative AI through the I-PACE model</strong><small>Journal of Computer Assisted Learning · 2026</small></span>
-          <span class="publication-topic">AI in Education</span>
+          <span class="publication-topic">Selected work</span>
           <i class="fas fa-chevron-right" aria-hidden="true"></i>
         </a>
-        <a class="publication-row" data-topic="ai-education" href="http://doi.org/10.1111/ijal.70204">
+        <a class="publication-row" href="http://doi.org/10.1111/ijal.70204">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
           <span class="publication-copy"><strong>Acceptance and engagement in AI-supported reading among primary school learners</strong><small>International Journal of Applied Linguistics · 2026</small></span>
-          <span class="publication-topic">AI in Education</span>
+          <span class="publication-topic">Selected work</span>
           <i class="fas fa-chevron-right" aria-hidden="true"></i>
         </a>
-        <a class="publication-row" data-topic="ai-education human-ai" href="https://doi.org/10.1111/ijal.12827">
+        <a class="publication-row" href="https://doi.org/10.1111/ijal.12827">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
           <span class="publication-copy"><strong>Learners’ acceptance and use of multimodal AI-generated content</strong><small>International Journal of Applied Linguistics · 2026</small></span>
-          <span class="publication-topic">Human–AI Interaction</span>
+          <span class="publication-topic">Selected work</span>
           <i class="fas fa-chevron-right" aria-hidden="true"></i>
         </a>
-        <p class="publication-empty" hidden>No recent publications match this topic yet. View the full publication archive for related work.</p>
       </div>
 
       <p class="console-statement"><i class="fas fa-quote-left" aria-hidden="true"></i> Building evidence for responsible, human-centered AI that supports learning and society.</p>
