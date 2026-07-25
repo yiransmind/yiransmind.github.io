@@ -835,44 +835,26 @@ html:not([data-theme="dark"]) .research-map-center {
   border-bottom: 1px solid var(--console-line);
 
   &[hidden] { display: none; }
-
-  > summary::-webkit-details-marker { display: none; }
-  > summary::marker { content: ""; }
 }
 
 .publication-theme-heading {
-  display: grid;
-  grid-template-areas:
-    "label icon"
-    "year icon";
-  grid-template-columns: minmax(0, 1fr) auto;
-  align-items: center;
-  gap: 6px 18px;
+  display: list-item;
   padding: 24px 4px;
   color: var(--console-text);
   cursor: pointer;
-  list-style: none;
   transition: color 160ms ease, background 160ms ease;
 
-  .console-eyebrow {
-    grid-area: label;
-    margin: 0;
-  }
+  .console-eyebrow { margin: 0; }
 
   .publication-year-title {
-    grid-area: year;
+    margin-left: 6px;
     font-size: clamp(1.55rem, 2.7vw, 2.35rem);
     font-weight: 400;
     letter-spacing: -0.035em;
     line-height: 1.1;
   }
 
-  i {
-    grid-area: icon;
-    color: var(--console-accent);
-    font-size: 0.85rem;
-    transition: transform 180ms ease;
-  }
+  &::marker { color: var(--console-accent); }
 
   &:hover { background: var(--console-accent-soft); }
 
@@ -882,9 +864,8 @@ html:not([data-theme="dark"]) .research-map-center {
   }
 }
 
-.publication-year[open] {
-  .publication-theme-heading { border-bottom: 1px solid var(--console-line); }
-  .publication-theme-heading i { transform: rotate(180deg); }
+.publication-year[open] .publication-theme-heading {
+  border-bottom: 1px solid var(--console-line);
 }
 
 .publication-year-content { padding: 8px 0 44px; }
