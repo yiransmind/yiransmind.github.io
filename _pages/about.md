@@ -96,27 +96,22 @@ redirect_from:
       <div class="publication-list">
         <a class="publication-row" href="https://doi.org/10.1016/j.tele.2026.102390">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
-          <span class="publication-copy"><strong>Was this person being ironic? The role of emojis in irony comprehension and memory</strong><small>Telematics and Informatics · 2026</small></span>
+          <span class="publication-copy"><strong>Was this person being ironic? The role of emojis in irony comprehension and memory in computer-mediated communication: Insights from the UK and China</strong><small>Telematics and Informatics · 2026</small></span>
           <i class="fas fa-chevron-right" aria-hidden="true"></i>
         </a>
-        <a class="publication-row" href="https://doi.org/10.1016/j.system.2024.103533">
+        <a class="publication-row" href="https://doi.org/10.1080/10447318.2024.2356398">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
-          <span class="publication-copy"><strong>The impact of conversational generative AI chatbots on EFL learners</strong><small>System · 2024</small></span>
+          <span class="publication-copy"><strong>The impact of emojis on verbal irony comprehension in computer-mediated communication: A cross-cultural study</strong><small>International Journal of Human–Computer Interaction · 2025</small></span>
           <i class="fas fa-chevron-right" aria-hidden="true"></i>
         </a>
         <a class="publication-row" href="https://doi.org/10.1002/jcal.70174">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
-          <span class="publication-copy"><strong>Are teachers addicted to AI? Dependence on generative AI through the I-PACE model</strong><small>Journal of Computer Assisted Learning · 2026</small></span>
+          <span class="publication-copy"><strong>Are teachers addicted to AI? Analysing factors influencing dependence on generative AI through the I-PACE model</strong><small>Journal of Computer Assisted Learning · 2026</small></span>
           <i class="fas fa-chevron-right" aria-hidden="true"></i>
         </a>
-        <a class="publication-row" href="http://doi.org/10.1111/ijal.70204">
+        <a class="publication-row" href="https://doi.org/10.1016/j.system.2024.103497">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
-          <span class="publication-copy"><strong>Acceptance and engagement in AI-supported reading among primary school learners</strong><small>International Journal of Applied Linguistics · 2026</small></span>
-          <i class="fas fa-chevron-right" aria-hidden="true"></i>
-        </a>
-        <a class="publication-row" href="https://doi.org/10.1111/ijal.12827">
-          <i class="fas fa-file-lines" aria-hidden="true"></i>
-          <span class="publication-copy"><strong>Learners’ acceptance and use of multimodal AI-generated content</strong><small>International Journal of Applied Linguistics · 2026</small></span>
+          <span class="publication-copy"><strong>Exploring EFL learners’ perceived promise and limitations of using an artificial intelligence speech evaluation system for speaking practice</strong><small>System · 2024</small></span>
           <i class="fas fa-chevron-right" aria-hidden="true"></i>
         </a>
       </div>
