@@ -6,7 +6,6 @@ permalink: /academic-service/
 
 ## Editorial Roles
 
-- Editorial Board Member, *Educational Engineering*, 2025–present
 - Article Editor, *SAGE Open*, 2024–present
 
 ## Journal Reviewer (ad hoc)
