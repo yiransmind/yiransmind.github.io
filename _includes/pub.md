@@ -12,7 +12,7 @@
 
   - **Du, Y.\***, Tang, M., Jia, K., Wang, C., & Zou, B. (2026). Are teachers addicted to AI? Analysing factors influencing dependence on generative AI through the I-PACE model. *Journal of Computer Assisted Learning, 42*(1), e70174. [SSCI, IF = 5.7, [DOI](https://doi.org/10.1002/jcal.70174)]
 
-  - **Du, Y.\***, & Yuan, Y. (2026). Epistemic dependence in AI-mediated learning. *AI & SOCIETY*. [ESCI, IF = 6.1, [DOI](https://doi.org/10.1007/s00146-026-03294-1)]
+  - **Du, Y.\***, & Yuan, Y. (2026). Epistemic dependence in AI-mediated learning. *AI & Society*. [ESCI, IF = 6.1, [DOI](https://doi.org/10.1007/s00146-026-03294-1)]
 
   - **Du, Y.\***, Yuan, Y., Wang, C., Zou, B., He, H., & Jia, K. (2026). Was this person being ironic? The role of emojis in irony comprehension and memory in computer-mediated communication: Insights from the UK and China. *Telematics and Informatics, 106*, 102390. [SSCI, IF = 9.9, [DOI](https://doi.org/10.1016/j.tele.2026.102390)]
 
