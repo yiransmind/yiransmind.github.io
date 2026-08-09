@@ -53,6 +53,11 @@ redirect_from:
       </div>
 
       <div class="publication-list">
+        <a class="publication-row" href="https://doi.org/10.1007/s00146-026-03294-1">
+          <i class="fas fa-file-lines" aria-hidden="true"></i>
+          <span class="publication-copy"><strong>Epistemic dependence in AI-mediated learning</strong><small>AI &amp; SOCIETY · 2026</small></span>
+          <i class="fas fa-chevron-right" aria-hidden="true"></i>
+        </a>
         <a class="publication-row" href="https://doi.org/10.1016/j.tele.2026.102390">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
           <span class="publication-copy"><strong>Was this person being ironic? The role of emojis in irony comprehension and memory in computer-mediated communication: Insights from the UK and China</strong><small>Telematics and Informatics · 2026</small></span>
