@@ -25,6 +25,8 @@
   - Wang, C., Zou, B.\*, Zhang, W.\*, **Du, Y.**, & Hu, W. (2026). Understanding EFL teachers’ affective and cognitive responses to ChatGPT in higher education. *Humanities and Social Sciences Communications*. [SSCI, IF = 4.8, [DOI](https://doi.org/10.1057/s41599-026-07360-3)]
 
   - Zhang, W., Zou, B.\*, & **Du, Y.** (2026). Teachers’ perceptions of the current practices and challenges in English for academic purposes: A survey study at universities in Shanghai, China. *International Journal of English for Academic Purposes*. [[DOI](https://doi.org/10.3828/ijeap.2026.2)]
+
+  - Zou, B., Zhao, M., Shen, H., Zhang, W., Wang, C., & **Du, Y.\*** (2026). Examining Chinese international students’ continuance intention to use AI systems for speaking practice: Insights from acculturative stress and the expectation–confirmation model. *The Asia-Pacific Education Researcher*. [SSCI, IF = 4.5, [DOI](https://doi.org/10.1007/s40299-026-01134-w)]
   </div>
   </details>
 
