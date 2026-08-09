@@ -55,7 +55,7 @@ redirect_from:
       <div class="publication-list">
         <a class="publication-row" href="https://doi.org/10.1007/s00146-026-03294-1">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
-          <span class="publication-copy"><strong>Epistemic dependence in AI-mediated learning</strong><small>AI &amp; SOCIETY · 2026</small></span>
+          <span class="publication-copy"><strong>Epistemic dependence in AI-mediated learning</strong><small>AI &amp; Society · 2026</small></span>
           <i class="fas fa-chevron-right" aria-hidden="true"></i>
         </a>
         <a class="publication-row" href="https://doi.org/10.1016/j.tele.2026.102390">
