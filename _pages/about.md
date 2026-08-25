@@ -26,6 +26,11 @@ redirect_from:
     padding-top: 13px;
     padding-bottom: 13px;
   }
+  @media screen and (max-width: 600px) {
+    .console-intro h2 {
+      font-size: min(9.7vw, 2.5rem);
+    }
+  }
   @media screen and (min-width: 1200px) {
     .console-main {
       padding-left: 76px;
