@@ -157,18 +157,31 @@ html:not([data-theme="dark"]) .research-console {
 }
 
 .console-connect {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   margin-top: auto;
   padding-top: 22px;
-  color: var(--console-muted);
   border-top: 1px solid var(--console-line);
-  font-size: 0.8rem;
+  text-align: center;
 
   a {
-    color: var(--console-text);
-    font-size: 1rem;
+    display: block;
+    width: 100%;
+    padding: 10px 12px;
+    color: var(--console-accent);
+    background: var(--console-accent-soft);
+    border: 1px solid var(--console-line);
+    border-radius: 6px;
+    font-size: 0.78rem;
+    font-weight: 500;
+    line-height: 1.2;
+    text-decoration: none;
+    transition: color 160ms ease, background 160ms ease, border-color 160ms ease;
+
+    &:hover,
+    &:focus-visible {
+      color: var(--console-text);
+      background: var(--console-panel-soft);
+      border-color: var(--console-accent);
+    }
   }
 }
 
