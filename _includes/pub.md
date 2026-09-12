@@ -14,6 +14,8 @@
 
   - **Du, Y.\***, & Yuan, Y. (2026). Epistemic dependence in AI-mediated learning. *AI & Society*. [ESCI, IF = 6.1, [DOI](https://doi.org/10.1007/s00146-026-03294-1)]
 
+  - **Du, Y.\***, & Yuan, Y. (2026). Epistemic dependence in AI-mediated learning within higher education: A framework for student judgement and responsibility. *Assessment & Evaluation in Higher Education*. [[DOI](https://doi.org/10.1080/02602938.2026.2732250)]
+
   - **Du, Y.\***, Fan, L., & He, H. (2026). Examining discontinuance of AI-mediated informal digital learning of English (AI-IDLE) among university students. *Cogent Education*, 13(1), 2718569. [ESCI, IF = 2.7, [DOI](https://doi.org/10.1080/2331186X.2026.2718569)]
 
   - **Du, Y.\***, Yuan, Y., Wang, C., Zou, B., He, H., & Jia, K. (2026). Was this person being ironic? The role of emojis in irony comprehension and memory in computer-mediated communication: Insights from the UK and China. *Telematics and Informatics*, 106, 102390. [SSCI, IF = 9.9, [DOI](https://doi.org/10.1016/j.tele.2026.102390)]
