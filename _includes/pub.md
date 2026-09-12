@@ -14,7 +14,7 @@
 
   - **Du, Y.\***, & Yuan, Y. (2026). Epistemic dependence in AI-mediated learning. *AI & Society*. [ESCI, IF = 6.1, [DOI](https://doi.org/10.1007/s00146-026-03294-1)]
 
-  - **Du, Y.\***, & Yuan, Y. (2026). Epistemic dependence in AI-mediated learning within higher education: A framework for student judgement and responsibility. *Assessment & Evaluation in Higher Education*. [[DOI](https://doi.org/10.1080/02602938.2026.2732250)]
+  - **Du, Y.\***, & Yuan, Y. (2026). Epistemic dependence in AI-mediated learning within higher education: A framework for student judgement and responsibility. *Assessment & Evaluation in Higher Education*. [SSCI, IF = 6.9, [DOI](https://doi.org/10.1080/02602938.2026.2732250)]
 
   - **Du, Y.\***, Fan, L., & He, H. (2026). Examining discontinuance of AI-mediated informal digital learning of English (AI-IDLE) among university students. *Cogent Education*, 13(1), 2718569. [ESCI, IF = 2.7, [DOI](https://doi.org/10.1080/2331186X.2026.2718569)]
 
