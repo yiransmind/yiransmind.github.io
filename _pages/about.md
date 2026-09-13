@@ -46,7 +46,7 @@ redirect_from:
     <section class="console-hero" aria-labelledby="hero-title">
       <div class="console-intro">
         <h2 id="hero-title">Researching the future of learning with AI</h2>
-        <p>Yiran Du is a PhD student at the University of Cambridge and has a master’s degree from Harvard University. His research focuses on AI in education, AI dependence, human–AI interaction, and information systems. He developed one of the first systematic frameworks of epistemic dependence in AI-mediated learning. His work has appeared in Telematics and Informatics, System, and Assessment &amp; Evaluation in Higher Education, and others. He also serves as an ad hoc reviewer for a wide range of journals.</p>
+        <p>Yiran Du is a PhD student at the University of Cambridge and holds a master’s degree from Harvard University. His research focuses on AI in education, AI dependence, human–AI interaction, and information systems. He develops one of the first systematic frameworks of epistemic dependence in AI-mediated learning. His work appears in Telematics and Informatics, System, and Assessment &amp; Evaluation in Higher Education, and others. He also serves as an ad hoc reviewer for a wide range of journals.</p>
       </div>
 
     </section>
