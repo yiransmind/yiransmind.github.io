@@ -1,4 +1,4 @@
-<p class="publication-note">Names in bold denote myself, whereas an asterisk * identifies the corresponding author.</p>
+
 
 <div class="publication-theme-groups">
   <details class="publication-theme-group publication-year">
