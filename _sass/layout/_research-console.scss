@@ -802,7 +802,10 @@ html:not([data-theme="dark"]) .research-map-center {
   }
 }
 
-.publication-note { margin-bottom: 22px !important; }
+.publication-note {
+  margin-bottom: 22px !important;
+  font-size: 0.8rem !important;
+}
 
 .archive-theme-filters {
   display: flex;
