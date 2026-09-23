@@ -10,13 +10,13 @@
 
   - Cui, K., Li, J., He, H., Wang, C., Zou, B., & **Du, Y.\*** (2026). Exploring psychological pathways to pedagogical AI overreliance among Chinese teachers through cognitive–affective–conative framework. *Journal of Research on Technology in Education*, 1–20. [SSCI, IF = 3.5, [DOI](https://doi.org/10.1080/15391523.2026.2700717)]
 
+  - **Du, Y.\***, Fan, L., & He, H. (2026). Examining discontinuance of AI-mediated informal digital learning of English (AI-IDLE) among university students. *Cogent Education*, 13(1), 2718569. [ESCI, IF = 2.7, [DOI](https://doi.org/10.1080/2331186X.2026.2718569)]
+
   - **Du, Y.\***, Tang, M., Jia, K., Wang, C., & Zou, B. (2026). Are teachers addicted to AI? Analysing factors influencing dependence on generative AI through the I-PACE model. *Journal of Computer Assisted Learning*, 42(1), e70174. [SSCI, IF = 5.7, [DOI](https://doi.org/10.1002/jcal.70174)]
 
   - **Du, Y.\***, & Yuan, Y. (2026). Epistemic dependence in AI-mediated learning. *AI & Society*. [ESCI, IF = 6.1, [DOI](https://doi.org/10.1007/s00146-026-03294-1)]
 
   - **Du, Y.\***, & Yuan, Y. (2026). Epistemic dependence in AI-mediated learning within higher education: A framework for student judgement and responsibility. *Assessment & Evaluation in Higher Education*. [SSCI, IF = 6.9, [DOI](https://doi.org/10.1080/02602938.2026.2732250)]
-
-  - **Du, Y.\***, Fan, L., & He, H. (2026). Examining discontinuance of AI-mediated informal digital learning of English (AI-IDLE) among university students. *Cogent Education*, 13(1), 2718569. [ESCI, IF = 2.7, [DOI](https://doi.org/10.1080/2331186X.2026.2718569)]
 
   - **Du, Y.\***, Yuan, Y., Wang, C., Zou, B., He, H., & Jia, K. (2026). Was this person being ironic? The role of emojis in irony comprehension and memory in computer-mediated communication: Insights from the UK and China. *Telematics and Informatics*, 106, 102390. [SSCI, IF = 9.9, [DOI](https://doi.org/10.1016/j.tele.2026.102390)]
 
@@ -41,11 +41,11 @@
   </summary>
   <div class="publication-year-content" id="publications-2025-content" markdown="1">
 
-  - **Du, Y.\***, Wang, C., Zou, B.\*, & Xia, Y. (2025). Personalising AI tools for second language speaking: The role of gender and autistic traits. *Frontiers in Psychiatry*, 15, 1464575. [SCI, IF = 3.8, [DOI](https://doi.org/10.3389/fpsyt.2024.1464575)]
+  - Du, C., Tang, M., Wang, C., Zou, B., Xia, Y., & **Du, Y.\*** (2025). Who is most likely to accept AI chatbots? A sequential explanatory mixed-methods study of personality and ChatGPT acceptance for language learning. *Innovation in Language Learning and Teaching*, 1–22. [SSCI, IF = 5.5, [DOI](https://doi.org/10.1080/17501229.2025.2555515)]
 
   - **Du, Y.\*** (2025). The impact of emojis on verbal irony comprehension in computer-mediated communication: A cross-cultural study. *International Journal of Human–Computer Interaction*, 41(8), 4979–4986. [SCI, IF = 6.1, [DOI](https://doi.org/10.1080/10447318.2024.2356398)]
 
-  - Du, C., Tang, M., Wang, C., Zou, B., Xia, Y., & **Du, Y.\*** (2025). Who is most likely to accept AI chatbots? A sequential explanatory mixed-methods study of personality and ChatGPT acceptance for language learning. *Innovation in Language Learning and Teaching*, 1–22. [SSCI, IF = 5.5, [DOI](https://doi.org/10.1080/17501229.2025.2555515)]
+  - **Du, Y.\***, Wang, C., Zou, B.\*, & Xia, Y. (2025). Personalising AI tools for second language speaking: The role of gender and autistic traits. *Frontiers in Psychiatry*, 15, 1464575. [SCI, IF = 3.8, [DOI](https://doi.org/10.3389/fpsyt.2024.1464575)]
   </div>
   </details>
 
