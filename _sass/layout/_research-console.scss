@@ -884,7 +884,11 @@ html:not([data-theme="dark"]) .research-map-center {
   border-bottom: 1px solid var(--console-line);
 }
 
-.publication-year-content { padding: 8px 0 44px; }
+.publication-year-content {
+  padding: 8px 0 44px;
+
+  li > p { margin: 0; }
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .console-intro,
