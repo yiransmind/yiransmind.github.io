@@ -1,4 +1,7 @@
-
+<style>
+.publication-year-content li > p { margin: 0; }
+.publication-year-content li::before { top: 30px; }
+</style>
 
 <div class="publication-theme-groups">
   <details class="publication-theme-group publication-year">
