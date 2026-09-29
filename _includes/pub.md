@@ -13,6 +13,16 @@
 
   - Cui, K., Li, J., He, H., Wang, C., Zou, B., & **Du, Y.\*** (2026). Exploring psychological pathways to pedagogical AI overreliance among Chinese teachers through cognitive–affective–conative framework. *Journal of Research on Technology in Education*, 1–20. [SSCI, IF = 3.5, [DOI](https://doi.org/10.1080/15391523.2026.2700717)]
 
+  - **Du, Y.\*** (2026). AI dependence as a longitudinal governance problem. *AI & Innovation*. [[DOI](https://doi.org/10.1002/aiv2.70018)]
+
+  - **Du, Y.\*** (2026). Recursive diagnostic anchoring in conversational artificial intelligence: A two-process hypothesis of pseudo-corroboration in patient self-diagnosis. *Medical Hypotheses*. [SCI, IF = 1.0, [DOI](https://doi.org/10.1016/j.mehy.2026.112172)]
+
+  - **Du, Y.\*** (2026). The digital trace inference framework: Aligning behavioural evidence with claims in applied linguistics. *Research Methods in Applied Linguistics*.
+
+  - **Du, Y.\*** (2026). The right not to be inferred: An inferential governance framework for biometric judgement in educational extended reality. *Journal of Science of Learning and Innovations*. [[DOI](https://doi.org/10.1163/29497736-bja00021)]
+
+  - **Du, Y.\***, Chen, Q., & He, H. (2026). Psychological mechanisms of generative AI discontinuance intention among Chinese K–12 teachers. *Advances in Human-Computer Interaction*. [ESCI, IF = 2.4, [DOI](https://doi.org/10.1155/ahci/8302982)]
+
   - **Du, Y.\***, Fan, L., & He, H. (2026). Examining discontinuance of AI-mediated informal digital learning of English (AI-IDLE) among university students. *Cogent Education*, 13(1), 2718569. [ESCI, IF = 2.7, [DOI](https://doi.org/10.1080/2331186X.2026.2718569)]
 
   - **Du, Y.\***, Tang, M., Jia, K., Wang, C., & Zou, B. (2026). Are teachers addicted to AI? Analysing factors influencing dependence on generative AI through the I-PACE model. *Journal of Computer Assisted Learning*, 42(1), e70174. [SSCI, IF = 5.7, [DOI](https://doi.org/10.1002/jcal.70174)]
