@@ -46,7 +46,7 @@ redirect_from:
     <section class="console-hero" aria-labelledby="hero-title">
       <div class="console-intro">
         <h2 id="hero-title">Researching the future of learning with AI</h2>
-        <p>Yiran Du is a PhD student at the University of Cambridge and holds a master’s degree from Harvard University. His research focuses on AI in education, AI dependence, human–AI interaction, and information systems. More recently, he has been working on epistemic dependence in AI-mediated learning. His work appears in <em>Telematics and Informatics</em>, <em>System</em>, and <em>Assessment &amp; Evaluation in Higher Education</em>, among others. He also serves as an ad hoc reviewer for a wide range of journals.</p>
+        <p>Yiran Du is a PhD student at the University of Cambridge and holds a master’s degree from Harvard University. His research focuses on AI in education, AI dependence, human–AI interaction, and information systems. More recently, he has been working on epistemic dependence in AI-mediated learning. His work appears in <em>Educational Psychology Review</em>, <em>Telematics and Informatics</em>, and <em>System</em>, among others. He also serves as an ad hoc reviewer for a wide range of journals.</p>
       </div>
 
     </section>
@@ -58,6 +58,11 @@ redirect_from:
       </div>
 
       <div class="publication-list">
+        <a class="publication-row" href="https://doi.org/10.1007/s10648-026-10227-3">
+          <i class="fas fa-file-lines" aria-hidden="true"></i>
+          <span class="publication-copy"><strong>Technology-supported interventions and learners’ metacognition: A three-level meta-analysis</strong><small>Educational Psychology Review · 2026</small></span>
+          <i class="fas fa-chevron-right" aria-hidden="true"></i>
+        </a>
         <a class="publication-row" href="https://doi.org/10.1080/02602938.2026.2732250">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
           <span class="publication-copy"><strong>Epistemic dependence in AI-mediated learning within higher education: A framework for student judgement and responsibility</strong><small>Assessment &amp; Evaluation in Higher Education · 2026</small></span>
@@ -76,11 +81,6 @@ redirect_from:
         <a class="publication-row" href="https://doi.org/10.1016/j.tele.2026.102390">
           <i class="fas fa-file-lines" aria-hidden="true"></i>
           <span class="publication-copy"><strong>Was this person being ironic? The role of emojis in irony comprehension and memory in computer-mediated communication: Insights from the UK and China</strong><small>Telematics and Informatics · 2026</small></span>
-          <i class="fas fa-chevron-right" aria-hidden="true"></i>
-        </a>
-        <a class="publication-row" href="https://doi.org/10.1080/10447318.2024.2356398">
-          <i class="fas fa-file-lines" aria-hidden="true"></i>
-          <span class="publication-copy"><strong>The impact of emojis on verbal irony comprehension in computer-mediated communication: A cross-cultural study</strong><small>International Journal of Human–Computer Interaction · 2025</small></span>
           <i class="fas fa-chevron-right" aria-hidden="true"></i>
         </a>
       </div>
