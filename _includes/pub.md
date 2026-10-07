@@ -40,6 +40,8 @@
   - Wang, C., **Du, Y.**, & Zou, B.\* (2026). Learners’ acceptance and use of multimodal artificial intelligence (AI)-generated content in AI-mediated informal digital learning of English. *International Journal of Applied Linguistics*. [SSCI, IF = 3.8, [DOI](https://doi.org/10.1111/ijal.12827)]
 
   - Wang, C., Zou, B.\*, Zhang, W.\*, **Du, Y.**, & Hu, W. (2026). Understanding EFL teachers’ affective and cognitive responses to ChatGPT in higher education. *Humanities and Social Sciences Communications*. [SSCI, IF = 4.8, [DOI](https://doi.org/10.1057/s41599-026-07360-3)]
+  
+  - Yuan, Y., & **Du, Y.\*** (2026). ETechnology-supported interventions and learners’ metacognition: A three-level meta-analysis. *Educational Psychology Review*. [SSCI, IF = 11.9, [DOI](https://doi.org/10.1007/s10648-026-10227-3)]
 
   - Zhang, W., Zou, B.\*, & **Du, Y.** (2026). Teachers’ perceptions of the current practices and challenges in English for academic purposes: A survey study at universities in Shanghai, China. *International Journal of English for Academic Purposes*. [[DOI](https://doi.org/10.3828/ijeap.2026.2)]
 
