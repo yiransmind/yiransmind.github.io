@@ -10,42 +10,53 @@
     <span class="publication-year-title" id="publications-2026">2026</span>
   </summary>
   <div class="publication-year-content" id="publications-2026-content" markdown="1">
-
-  - Cui, K., Li, J., He, H., Wang, C., Zou, B., & **Du, Y.\*** (2026). Exploring psychological pathways to pedagogical AI overreliance among Chinese teachers through cognitive–affective–conative framework. *Journal of Research on Technology in Education*. [SSCI, IF = 3.5, [DOI](https://doi.org/10.1080/15391523.2026.2700717)]
-
-  - **Du, Y.\*** (2026). AI dependence as a longitudinal governance problem. *AI & Innovation*. [[DOI](https://doi.org/10.1002/aiv2.70018)]
-
-  - **Du, Y.\*** (2026). Recursive diagnostic anchoring in conversational artificial intelligence: A two-process hypothesis of pseudo-corroboration in patient self-diagnosis. *Medical Hypotheses*. [SCI, IF = 1.0, [DOI](https://doi.org/10.1016/j.mehy.2026.112172)]
-
-  - **Du, Y.\*** (2026). The digital trace inference framework: Aligning behavioural evidence with claims in applied linguistics. *Research Methods in Applied Linguistics*.
-
-  - **Du, Y.\*** (2026). The right not to be inferred: An inferential governance framework for biometric judgement in educational extended reality. *Journal of Science of Learning and Innovations*. [[DOI](https://doi.org/10.1163/29497736-bja00021)]
-
-  - **Du, Y.\***, Chen, Q., & He, H. (2026). Psychological mechanisms of generative AI discontinuance intention among Chinese K–12 teachers. *Advances in Human-Computer Interaction*. [ESCI, IF = 2.4, [DOI](https://doi.org/10.1155/ahci/8302982)]
-
-  - **Du, Y.\***, Fan, L., & He, H. (2026). Examining discontinuance of AI-mediated informal digital learning of English (AI-IDLE) among university students. *Cogent Education*. [ESCI, IF = 2.7, [DOI](https://doi.org/10.1080/2331186X.2026.2718569)]
-
-  - **Du, Y.\***, Tang, M., Jia, K., Wang, C., & Zou, B. (2026). Are teachers addicted to AI? Analysing factors influencing dependence on generative AI through the I-PACE model. *Journal of Computer Assisted Learning*. [SSCI, IF = 5.7, [DOI](https://doi.org/10.1002/jcal.70174)]
-
-  - **Du, Y.\***, & Yuan, Y. (2026). Epistemic dependence in AI-mediated learning. *AI & Society*. [ESCI, IF = 6.1, [DOI](https://doi.org/10.1007/s00146-026-03294-1)]
-
-  - **Du, Y.\***, & Yuan, Y. (2026). Epistemic dependence in AI-mediated learning within higher education: A framework for student judgement and responsibility. *Assessment & Evaluation in Higher Education*. [SSCI, IF = 6.9, [DOI](https://doi.org/10.1080/02602938.2026.2732250)]
-
-  - **Du, Y.\***, Yuan, Y., Wang, C., Zou, B., He, H., & Jia, K. (2026). Was this person being ironic? The role of emojis in irony comprehension and memory in computer-mediated communication: Insights from the UK and China. *Telematics and Informatics*. [SSCI, IF = 9.9, [DOI](https://doi.org/10.1016/j.tele.2026.102390)]
-
-  - Tang, M., Jia, K., He, H., Wang, C., Zou, B., & **Du, Y.\*** (2026). Acceptance and engagement in artificial intelligence-supported reading among primary school learners of English as a foreign language. *International Journal of Applied Linguistics*. [SSCI, IF = 3.8, [DOI](http://doi.org/10.1111/ijal.70204)]
-
-  - Tang, M., Lau, K. L.\*, & **Du, Y.** (2026). Effects and moderators of dialogic reading on children’s reading literacy: A three-level meta-analysis on studies from 2000 to 2025. *International Journal of Educational Research*. [SSCI, IF = 3.3, [DOI](https://doi.org/10.1016/j.ijer.2026.102963)]
-
-  - Wang, C., **Du, Y.**, & Zou, B.\* (2026). Learners’ acceptance and use of multimodal artificial intelligence (AI)-generated content in AI-mediated informal digital learning of English. *International Journal of Applied Linguistics*. [SSCI, IF = 3.8, [DOI](https://doi.org/10.1111/ijal.12827)]
-
-  - Wang, C., Zou, B.\*, Zhang, W.\*, **Du, Y.**, & Hu, W. (2026). Understanding EFL teachers’ affective and cognitive responses to ChatGPT in higher education. *Humanities and Social Sciences Communications*. [SSCI, IF = 4.8, [DOI](https://doi.org/10.1057/s41599-026-07360-3)]
   
-  - Yuan, Y., & **Du, Y.\*** (2026). ETechnology-supported interventions and learners’ metacognition: A three-level meta-analysis. *Educational Psychology Review*. [SSCI, IF = 11.9, [DOI](https://doi.org/10.1007/s10648-026-10227-3)]
+- Cui, K., Li, J., He, H., Wang, C., Zou, B., & **Du, Y.**\* (2026). Exploring psychological pathways to pedagogical AI overreliance among Chinese teachers through cognitive–affective–conative framework. *Journal of Research on Technology in Education*. [SSCI, IF = 3.5, [DOI](https://doi.org/10.1080/15391523.2026.2700717)]
 
-  - Zhang, W., Zou, B.\*, & **Du, Y.** (2026). Teachers’ perceptions of the current practices and challenges in English for academic purposes: A survey study at universities in Shanghai, China. *International Journal of English for Academic Purposes*. [[DOI](https://doi.org/10.3828/ijeap.2026.2)]
+- **Du, Y.**\* (2026). AI dependence as a longitudinal governance problem. *AI & Innovation*. [[DOI](https://doi.org/10.1002/aiv2.70018)]
 
-  - Zou, B., Zhao, M., Shen, H., Zhang, W., Wang, C., & **Du, Y.\*** (2026). Examining Chinese international students’ continuance intention to use AI systems for speaking practice: Insights from acculturative stress and the expectation–confirmation model. *The Asia-Pacific Education Researcher*. [SSCI, IF = 4.5, [DOI](https://doi.org/10.1007/s40299-026-01134-w)]
+- **Du, Y.**\* (2026). Generative AI and the development of responsible knowing in childhood. *Innovation and Education*. [[DOI](https://doi.org/10.1163/25248502-bja00024)]
+
+- **Du, Y.**\* (2026). Recursive diagnostic anchoring in conversational artificial intelligence: A two-process hypothesis of pseudo-corroboration in patient self-diagnosis. *Medical Hypotheses*. [SCI, IF = 1.0, [DOI](https://doi.org/10.1016/j.mehy.2026.112172)]
+
+- **Du, Y.**\* (2026). Resting EEG as a condition-dependent ageing phenotype. *Neurobiology of Aging*. [SCI, IF = 4.0, [DOI](https://doi.org/10.1016/j.neurobiolaging.2026.10.003)]
+
+- **Du, Y.**\* (2026). Synthetic corroboration: When AI interpretation looks like independent evidence. *Journal of Psychology and AI*. [[DOI](https://doi.org/10.1080/29974100.2026.2750743)]
+
+- **Du, Y.**\* (2026). The digital trace inference framework: Aligning behavioural evidence with claims in applied linguistics. *Research Methods in Applied Linguistics*. [ESCI, IF = 5.5, [DOI](https://doi.org/10.1016/j.rmal.2026.100385)]
+
+- **Du, Y.**\* (2026). The right not to be inferred: An inferential governance framework for biometric judgement in educational extended reality. *Journal of Science of Learning and Innovations*. [[DOI](https://doi.org/10.1163/29497736-bja00021)]
+
+- **Du, Y.**\* (2026). What do willingness and involvement ratings actually measure? Evidence from L2 speech and writing assessment. *Applied Corpus Linguistics*. [ESCI, IF = 4.4, [DOI](https://doi.org/10.1016/j.acorp.2026.100253)]
+
+- **Du, Y.**\*, Yuan, Y., Wang, C., Zou, B., He, H., & Jia, K. (2026). Was this person being ironic? The role of emojis in irony comprehension and memory in computer-mediated communication: Insights from the UK and China. *Telematics and Informatics*. [SSCI, IF = 9.9, [DOI](https://doi.org/10.1016/j.tele.2026.102390)]
+
+- **Du, Y.**\* (2026). When linguistic assistance becomes authoritative judgement: A multilevel framework for generative AI in higher-education language practices. *Educational Linguistics*. [[DOI](https://doi.org/10.1515/eduling-2026-0009)]
+
+- **Du, Y.**\*, Chen, Q., & He, H. (2026). Psychological mechanisms of generative AI discontinuance intention among Chinese K–12 teachers. *Advances in Human-Computer Interaction*. [ESCI, IF = 2.4, [DOI](https://doi.org/10.1155/ahci/8302982)]
+
+- **Du, Y.**\*, Fan, L., & He, H. (2026). Examining discontinuance of AI-mediated informal digital learning of English (AI-IDLE) among university students. *Cogent Education*. [ESCI, IF = 2.7, [DOI](https://doi.org/10.1080/2331186X.2026.2718569)]
+
+- **Du, Y.**\*, Tang, M., Jia, K., Wang, C., & Zou, B. (2026). Are teachers addicted to AI? Analysing factors influencing dependence on generative AI through the I-PACE Model. *Journal of Computer Assisted Learning*. [SSCI, IF = 5.7, [DOI](https://doi.org/10.1002/jcal.70174)]
+
+- **Du, Y.**\*, & Yuan, Y. (2026). Epistemic dependence in AI-mediated learning. *AI & Society*. [ESCI, IF = 6.1, [DOI](https://doi.org/10.1007/s00146-026-03294-1)]
+
+- **Du, Y.**\*, & Yuan, Y. (2026). Epistemic dependence in AI-mediated learning within higher education: A framework for student judgement and responsibility. *Assessment & Evaluation in Higher Education*. [SSCI, IF = 6.9, [DOI](https://doi.org/10.1080/02602938.2026.2732250)]
+
+- Tang, M., Jia, K., He, H., Wang, C., Zou, B., & **Du, Y.**\* (2026). Acceptance and engagement in artificial intelligence–supported reading among primary school learners of English as a foreign language. *International Journal of Applied Linguistics*. [SSCI, IF = 3.8, [DOI](https://doi.org/10.1111/ijal.70204)]
+
+- Tang, M., Lau, K. L.\*, & **Du, Y.** (2026). Effects and moderators of dialogic reading on children’s reading literacy: A three-level meta-analysis on studies from 2000 to 2025. *International Journal of Educational Research*. [SSCI, IF = 3.3, [DOI](https://doi.org/10.1016/j.ijer.2026.102963)]
+
+- Wang, C., **Du, Y.**, & Zou, B.\* (2026). Learners’ acceptance and use of multimodal artificial intelligence (AI)-generated content in AI-mediated informal digital learning of English. *International Journal of Applied Linguistics*. [SSCI, IF = 3.8, [DOI](https://doi.org/10.1111/ijal.12827)]
+
+- Wang, C., Zou, B.\*, Zhang, W.\*, **Du, Y.**, & Hu, W. (2026). Understanding EFL teachers’ affective and cognitive responses to ChatGPT in higher education. *Humanities and Social Sciences Communications*. [SSCI, IF = 4.8, [DOI](https://doi.org/10.1057/s41599-026-07360-3)]
+
+- Yuan, Y., & **Du, Y.**\* (2026). Technology-supported interventions and learners’ metacognition: A three-level meta-analysis. *Educational Psychology Review*. [SSCI, IF = 11.9, [DOI](https://doi.org/10.1007/s10648-026-10227-3)]
+
+- Zhang, W., Zou, B.\*, & **Du, Y.** (2026). Teachers’ perceptions of the current practices and challenges in English for academic purposes: A survey study at universities in Shanghai, China. *International Journal of English for Academic Purposes*. [[DOI](https://doi.org/10.3828/ijeap.2026.2)]
+
+- Zou, B., Zhao, M., Shen, H., Zhang, W., Wang, C., & **Du, Y.**\* (2026). Examining Chinese international students’ continuance intention to use AI systems for speaking practice: Insights from acculturative stress and the expectation–confirmation model. *The Asia-Pacific Education Researcher*. [SSCI, IF = 4.5, [DOI](https://doi.org/10.1007/s40299-026-01134-w)]
+
   </div>
   </details>
 
