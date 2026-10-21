@@ -19,6 +19,19 @@ redirect_from:
     max-width: 820px;
     line-height: 1.65;
   }
+  .console-profile-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px 24px;
+    margin-top: 24px;
+  }
+  .console-profile-links a {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.9rem;
+  }
+  .console-profile-links i { font-size: 0.75em; }
   .console-publications { margin-top: 52px; }
   .console-publications .publication-row {
     grid-template-columns: 24px minmax(0, 1fr) 16px;
@@ -39,7 +52,15 @@ redirect_from:
   }
 </style>
 
-  <!-- Academic Profiles -->
+<div class="research-console">
+  {% include research-sidebar.html %}
+
+  <main class="console-main">
+    <section class="console-hero" aria-labelledby="hero-title">
+      <div class="console-intro">
+        <h2 id="hero-title">Researching the future of learning with AI</h2>
+        <p>Yiran Du is a PhD student at the University of Cambridge and holds a master’s degree from Harvard University. His research focuses on AI in education, AI dependence, human–AI interaction, and information systems. More recently, he has been working on AI-mediated epistemic dependence. His work appears in <em>Educational Psychology Review</em>, <em>Telematics and Informatics</em>, and <em>System</em>, among others. He also serves as an ad hoc reviewer for a wide range of journals.</p>
+
         <nav class="console-profile-links" aria-label="Academic profiles">
 
           <a
@@ -73,18 +94,6 @@ redirect_from:
           </a>
 
         </nav>
-
-      </div>
-    </section>
-    
-<div class="research-console">
-  {% include research-sidebar.html %}
-
-  <main class="console-main">
-    <section class="console-hero" aria-labelledby="hero-title">
-      <div class="console-intro">
-        <h2 id="hero-title">Researching the future of learning with AI</h2>
-        <p>Yiran Du is a PhD student at the University of Cambridge and holds a master’s degree from Harvard University. His research focuses on AI in education, AI dependence, human–AI interaction, and information systems. More recently, he has been working on AI-mediated epistemic dependence. His work appears in <em>Educational Psychology Review</em>, <em>Telematics and Informatics</em>, and <em>System</em>, among others. He also serves as an ad hoc reviewer for a wide range of journals.</p>
       </div>
 
     </section>
