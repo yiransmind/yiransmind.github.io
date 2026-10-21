@@ -1,97 +1,36 @@
-
 ---
 permalink: /
 layout: research-home
 title: "Yiran Du"
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
 
 <style>
-  .console-hero {
-    grid-template-columns: minmax(0, 1fr);
-  }
-
-  .console-intro {
-    max-width: 1060px;
-  }
-
+  .console-hero { grid-template-columns: minmax(0, 1fr); }
+  .console-intro { max-width: 1060px; }
   .console-intro h2 {
     max-width: 780px;
     margin: 24px 0 20px;
     font-size: clamp(3rem, 4.8vw, 4.75rem);
   }
-
   .console-intro p:not(.console-kicker) {
     max-width: 820px;
     line-height: 1.65;
   }
-
-  /* Academic profile links */
-  .console-profile-links {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 12px 24px;
-    margin-top: 26px;
-  }
-
-  .console-profile-links a {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 5px 0;
-    color: inherit;
-    font-size: 0.9rem;
-    font-weight: 600;
-    line-height: 1.5;
-    text-decoration: none;
-    border-bottom: 1px solid currentColor;
-    transition: opacity 0.2s ease;
-  }
-
-  .console-profile-links a:hover {
-    opacity: 0.65;
-  }
-
-  .console-profile-links a:focus-visible {
-    outline: 2px solid currentColor;
-    outline-offset: 4px;
-    border-radius: 2px;
-  }
-
-  .console-profile-links a i {
-    font-size: 0.7rem;
-    opacity: 0.65;
-  }
-
-  .console-publications {
-    margin-top: 52px;
-  }
-
+  .console-publications { margin-top: 52px; }
   .console-publications .publication-row {
     grid-template-columns: 24px minmax(0, 1fr) 16px;
     min-height: 78px;
     padding-top: 13px;
     padding-bottom: 13px;
   }
-
   @media screen and (max-width: 600px) {
     .console-intro h2 {
       font-size: min(9.7vw, 2.5rem);
     }
-
-    .console-profile-links {
-      gap: 10px 18px;
-      margin-top: 22px;
-    }
-
-    .console-profile-links a {
-      font-size: 0.85rem;
-    }
   }
-
   @media screen and (min-width: 1200px) {
     .console-main {
       padding-left: 76px;
@@ -100,23 +39,7 @@ redirect_from:
   }
 </style>
 
-<div class="research-console">
-  {% include research-sidebar.html %}
-
-  <main class="console-main">
-
-    <section class="console-hero" aria-labelledby="hero-title">
-      <div class="console-intro">
-
-        <h2 id="hero-title">
-          Researching the future of learning with AI
-        </h2>
-
-        <p>
-          Yiran Du is a PhD student at the University of Cambridge and holds a master’s degree from Harvard University. His research focuses on AI in education, AI dependence, human–AI interaction, and information systems. More recently, he has been working on AI-mediated epistemic dependence. His work appears in <em>Educational Psychology Review</em>, <em>Telematics and Informatics</em>, and <em>System</em>, among others. He also serves as an ad hoc reviewer for a wide range of journals.
-        </p>
-
-        <!-- Academic Profiles -->
+  <!-- Academic Profiles -->
         <nav class="console-profile-links" aria-label="Academic profiles">
 
           <a
@@ -153,86 +76,53 @@ redirect_from:
 
       </div>
     </section>
+    
+<div class="research-console">
+  {% include research-sidebar.html %}
 
-    <section class="console-publications" aria-labelledby="highlighted-publications-title">
-
-      <div class="console-section-heading">
-        <p class="console-eyebrow" id="highlighted-publications-title">
-          Highlighted Publications
-          <i class="fas fa-circle" aria-hidden="true"></i>
-        </p>
-
-        <a href="/publications/">
-          View all publications
-          <i class="fas fa-arrow-right" aria-hidden="true"></i>
-        </a>
-      </div>
-
-      <div class="publication-list">
-
-        <a
-          class="publication-row"
-          href="https://doi.org/10.1007/s10648-026-10227-3"
-        >
-          <i class="fas fa-file-lines" aria-hidden="true"></i>
-          <span class="publication-copy">
-            <strong>Technology-supported interventions and learners’ metacognition: A three-level meta-analysis</strong>
-            <small>Educational Psychology Review · 2026</small>
-          </span>
-          <i class="fas fa-chevron-right" aria-hidden="true"></i>
-        </a>
-
-        <a
-          class="publication-row"
-          href="https://doi.org/10.1080/02602938.2026.2732250"
-        >
-          <i class="fas fa-file-lines" aria-hidden="true"></i>
-          <span class="publication-copy">
-            <strong>Epistemic dependence in AI-mediated learning within higher education: A framework for student judgement and responsibility</strong>
-            <small>Assessment &amp; Evaluation in Higher Education · 2026</small>
-          </span>
-          <i class="fas fa-chevron-right" aria-hidden="true"></i>
-        </a>
-
-        <a
-          class="publication-row"
-          href="https://doi.org/10.1002/jcal.70174"
-        >
-          <i class="fas fa-file-lines" aria-hidden="true"></i>
-          <span class="publication-copy">
-            <strong>Are teachers addicted to AI? Analysing factors influencing dependence on generative AI through the I-PACE Model</strong>
-            <small>Journal of Computer Assisted Learning · 2026</small>
-          </span>
-          <i class="fas fa-chevron-right" aria-hidden="true"></i>
-        </a>
-
-        <a
-          class="publication-row"
-          href="https://doi.org/10.1007/s00146-026-03294-1"
-        >
-          <i class="fas fa-file-lines" aria-hidden="true"></i>
-          <span class="publication-copy">
-            <strong>Epistemic dependence in AI-mediated learning</strong>
-            <small>AI &amp; Society · 2026</small>
-          </span>
-          <i class="fas fa-chevron-right" aria-hidden="true"></i>
-        </a>
-
-        <a
-          class="publication-row"
-          href="https://doi.org/10.1016/j.tele.2026.102390"
-        >
-          <i class="fas fa-file-lines" aria-hidden="true"></i>
-          <span class="publication-copy">
-            <strong>Was this person being ironic? The role of emojis in irony comprehension and memory in computer-mediated communication: Insights from the UK and China</strong>
-            <small>Telematics and Informatics · 2026</small>
-          </span>
-          <i class="fas fa-chevron-right" aria-hidden="true"></i>
-        </a>
-
+  <main class="console-main">
+    <section class="console-hero" aria-labelledby="hero-title">
+      <div class="console-intro">
+        <h2 id="hero-title">Researching the future of learning with AI</h2>
+        <p>Yiran Du is a PhD student at the University of Cambridge and holds a master’s degree from Harvard University. His research focuses on AI in education, AI dependence, human–AI interaction, and information systems. More recently, he has been working on AI-mediated epistemic dependence. His work appears in <em>Educational Psychology Review</em>, <em>Telematics and Informatics</em>, and <em>System</em>, among others. He also serves as an ad hoc reviewer for a wide range of journals.</p>
       </div>
 
     </section>
 
+    <section class="console-publications" aria-labelledby="highlighted-publications-title">
+      <div class="console-section-heading">
+        <p class="console-eyebrow" id="highlighted-publications-title">Highlighted Publications <i class="fas fa-circle" aria-hidden="true"></i></p>
+        <a href="/publications/">View all publications <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+      </div>
+
+      <div class="publication-list">
+        <a class="publication-row" href="https://doi.org/10.1007/s10648-026-10227-3">
+          <i class="fas fa-file-lines" aria-hidden="true"></i>
+          <span class="publication-copy"><strong>Technology-supported interventions and learners’ metacognition: A three-level meta-analysis</strong><small>Educational Psychology Review · 2026</small></span>
+          <i class="fas fa-chevron-right" aria-hidden="true"></i>
+        </a>
+        <a class="publication-row" href="https://doi.org/10.1080/02602938.2026.2732250">
+          <i class="fas fa-file-lines" aria-hidden="true"></i>
+          <span class="publication-copy"><strong>Epistemic dependence in AI-mediated learning within higher education: A framework for student judgement and responsibility</strong><small>Assessment &amp; Evaluation in Higher Education · 2026</small></span>
+          <i class="fas fa-chevron-right" aria-hidden="true"></i>
+        </a>
+        <a class="publication-row" href="https://doi.org/10.1002/jcal.70174">
+          <i class="fas fa-file-lines" aria-hidden="true"></i>
+          <span class="publication-copy"><strong>Are teachers addicted to AI? Analysing factors influencing dependence on generative AI through the I-PACE Model</strong><small>Journal of Computer Assisted Learning · 2026</small></span>
+          <i class="fas fa-chevron-right" aria-hidden="true"></i>
+        </a>
+        <a class="publication-row" href="https://doi.org/10.1007/s00146-026-03294-1">
+          <i class="fas fa-file-lines" aria-hidden="true"></i>
+          <span class="publication-copy"><strong>Epistemic dependence in AI-mediated learning</strong><small>AI &amp; Society · 2026</small></span>
+          <i class="fas fa-chevron-right" aria-hidden="true"></i>
+        </a>
+        <a class="publication-row" href="https://doi.org/10.1016/j.tele.2026.102390">
+          <i class="fas fa-file-lines" aria-hidden="true"></i>
+          <span class="publication-copy"><strong>Was this person being ironic? The role of emojis in irony comprehension and memory in computer-mediated communication: Insights from the UK and China</strong><small>Telematics and Informatics · 2026</small></span>
+          <i class="fas fa-chevron-right" aria-hidden="true"></i>
+        </a>
+      </div>
+
+    </section>
   </main>
 </div>
