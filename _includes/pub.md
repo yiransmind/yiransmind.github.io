@@ -24,6 +24,8 @@
 
   - **Du, Y.**\* (2026). Synthetic corroboration: When AI interpretation looks like independent evidence. *Journal of Psychology and AI*. [[DOI](https://doi.org/10.1080/29974100.2026.2750743)]
 
+  - **Du, Y.**\* (2026). The Assistive technology continuity framework: Sustaining access through disruption and change. *Disability and Rehabilitation: Assistive Technology*. [SSCI, IF = 2.1, [DOI](https://doi.org/10.1080/17483107.2026.2756109)]
+
   - **Du, Y.**\* (2026). The digital trace inference framework: Aligning behavioural evidence with claims in applied linguistics. *Research Methods in Applied Linguistics*. [ESCI, IF = 5.5, [DOI](https://doi.org/10.1016/j.rmal.2026.100385)]
 
   - **Du, Y.**\* (2026). The right not to be inferred: An inferential governance framework for biometric judgement in educational extended reality. *Journal of Science of Learning and Innovations*. [[DOI](https://doi.org/10.1163/29497736-bja00021)]
