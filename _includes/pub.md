@@ -6,6 +6,17 @@
 
 <div class="publication-theme-groups">
   <details class="publication-theme-group publication-year">
+  <summary class="publication-theme-heading" aria-controls="publications-2027-content">
+    <span class="console-eyebrow">Year</span>
+    <span class="publication-year-title" id="publications-2027">2027</span>
+  </summary>
+  <div class="publication-year-content" id="publications-2027-content" markdown="1">
+
+  - **Du, Y.**\* (2027). Resting EEG as a condition-dependent ageing phenotype. *Neurobiology of Aging*. [SCI, IF = 4.0, [DOI](https://doi.org/10.1016/j.neurobiolaging.2026.10.003)]
+  </div>
+  </details>
+
+  <details class="publication-theme-group publication-year">
   <summary class="publication-theme-heading" aria-controls="publications-2026-content">
     <span class="console-eyebrow">Year</span>
     <span class="publication-year-title" id="publications-2026">2026</span>
@@ -19,8 +30,6 @@
   - **Du, Y.**\* (2026). Generative AI and the development of responsible knowing in childhood. *Innovation and Education*. [[DOI](https://doi.org/10.1163/25248502-bja00024)]
 
   - **Du, Y.**\* (2026). Recursive diagnostic anchoring in conversational artificial intelligence: A two-process hypothesis of pseudo-corroboration in patient self-diagnosis. *Medical Hypotheses*. [SCI, IF = 1.0, [DOI](https://doi.org/10.1016/j.mehy.2026.112172)]
-
-  - **Du, Y.**\* (2026). Resting EEG as a condition-dependent ageing phenotype. *Neurobiology of Aging*. [SCI, IF = 4.0, [DOI](https://doi.org/10.1016/j.neurobiolaging.2026.10.003)]
 
   - **Du, Y.**\* (2026). Synthetic corroboration: When AI interpretation looks like independent evidence. *Journal of Psychology and AI*. [[DOI](https://doi.org/10.1080/29974100.2026.2750743)]
 
