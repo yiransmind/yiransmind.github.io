@@ -13,6 +13,7 @@
 
   <nav class="console-nav" aria-label="Primary navigation">
     <a{% if page.url == '/' %} class="is-active" aria-current="page"{% endif %} href="/"><i class="fas fa-house" aria-hidden="true"></i>Homepage</a>
+    <a{% if page.url contains '/research-programmes/' %} class="is-active"{% if page.url == '/research-programmes/' %} aria-current="page"{% endif %}{% endif %} href="/research-programmes/"><i class="fas fa-compass" aria-hidden="true"></i>Research Programmes</a>
     <a{% if page.url == '/publications/' %} class="is-active" aria-current="page"{% endif %} href="/publications/"><i class="fas fa-file-lines" aria-hidden="true"></i>Publications</a>
     <a{% if page.url == '/academic-service/' %} class="is-active" aria-current="page"{% endif %} href="/academic-service/"><i class="fas fa-user-group" aria-hidden="true"></i>Academic Service</a>
   </nav>
